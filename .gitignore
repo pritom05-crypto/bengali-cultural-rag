@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Vector database
+vectorstore/
+
+# Model files
+models/
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+
+# Cache
+.cache/
+huggingface_cache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python distribution
+*.egg-info/
+dist/
+build/
