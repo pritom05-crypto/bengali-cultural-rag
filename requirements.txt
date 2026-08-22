@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+numpy
+pandas
+scikit-learn
+rank-bm25
+chromadb
