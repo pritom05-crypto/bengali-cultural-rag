@@ -1,0 +1,36 @@
+{
+  "total_conflicting_groups": 1,
+  "conflicts": [
+    {
+      "bengali_phrase": "ইনিয়ে বিনিয়ে",
+      "records": [
+        {
+          "id": "169",
+          "cultural_meaning": "Lazy",
+          "intended_emotion_tone": "Annoyed / Frustrated"
+        },
+        {
+          "id": "188",
+          "cultural_meaning": "Turn around",
+          "intended_emotion_tone": "Annoyed / Critical"
+        }
+      ]
+    }
+  ],
+  "review_merge_candidates": [
+    {
+      "bengali_phrase": "ইঁচড়ে পাকা",
+      "source_record_ids": [
+        "165",
+        "184"
+      ]
+    },
+    {
+      "bengali_phrase": "ইয়ারবকসি",
+      "source_record_ids": [
+        "170",
+        "191"
+      ]
+    }
+  ]
+}

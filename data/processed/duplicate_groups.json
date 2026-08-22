@@ -1,0 +1,338 @@
+{
+  "আড়ং ঘাটা": [
+    {
+      "id": "86",
+      "bengali_phrase": "আড়ং ঘাটা",
+      "literal_meaning": "Market dock",
+      "cultural_meaning": "Ferry terminal",
+      "intended_emotion_tone": "Neutral"
+    },
+    {
+      "id": "100",
+      "bengali_phrase": "আড়ং ঘাটা",
+      "literal_meaning": "Market dock",
+      "cultural_meaning": "Ferry terminal",
+      "intended_emotion_tone": "Neutral"
+    }
+  ],
+  "আদাড়ের হাঁড়ি": [
+    {
+      "id": "113",
+      "bengali_phrase": "আদাড়ের হাঁড়ি",
+      "literal_meaning": "A cooking pot in the garbage/backyard",
+      "cultural_meaning": "An insignificant or neglected person",
+      "intended_emotion_tone": "Disparaging / Derogatory"
+    },
+    {
+      "id": "126",
+      "bengali_phrase": "আদাড়ের হাঁড়ি",
+      "literal_meaning": "Cooking pot in the garbage",
+      "cultural_meaning": "An insignificant or neglected person",
+      "intended_emotion_tone": "Derogatory / Dismissive"
+    }
+  ],
+  "ইতর বিশেষ": [
+    {
+      "id": "160",
+      "bengali_phrase": "ইতর বিশেষ",
+      "literal_meaning": "Base difference",
+      "cultural_meaning": "Difference / Distinction",
+      "intended_emotion_tone": "Neutral"
+    },
+    {
+      "id": "179",
+      "bengali_phrase": "ইতর বিশেষ",
+      "literal_meaning": "Base difference",
+      "cultural_meaning": "Difference / Distinction",
+      "intended_emotion_tone": "Neutral / Analytical"
+    }
+  ],
+  "ঈদের চাঁদ": [
+    {
+      "id": "161",
+      "bengali_phrase": "ঈদের চাঁদ",
+      "literal_meaning": "Moon of Eid",
+      "cultural_meaning": "Most desired item",
+      "intended_emotion_tone": "Joyful / Longing"
+    },
+    {
+      "id": "180",
+      "bengali_phrase": "ঈদের চাঁদ",
+      "literal_meaning": "Moon of Eid",
+      "cultural_meaning": "Most desired item",
+      "intended_emotion_tone": "Joyful / Longing"
+    }
+  ],
+  "ইঁদুর কপালে": [
+    {
+      "id": "162",
+      "bengali_phrase": "ইঁদুর কপালে",
+      "literal_meaning": "Rat's forehead",
+      "cultural_meaning": "Very bad luck",
+      "intended_emotion_tone": "Sympathetic / Pitying"
+    },
+    {
+      "id": "181",
+      "bengali_phrase": "ইঁদুর কপালে",
+      "literal_meaning": "Rat's forehead",
+      "cultural_meaning": "Very bad luck",
+      "intended_emotion_tone": "Sympathetic / Pitying"
+    }
+  ],
+  "ইলশে গুঁড়ি": [
+    {
+      "id": "163",
+      "bengali_phrase": "ইলশে গুঁড়ি",
+      "literal_meaning": "Hilsa rain dust",
+      "cultural_meaning": "Drizzling rain",
+      "intended_emotion_tone": "Descriptive / Poetic"
+    },
+    {
+      "id": "182",
+      "bengali_phrase": "ইলশে গুঁড়ি",
+      "literal_meaning": "Hilsa dust rain",
+      "cultural_meaning": "Drizzling rain",
+      "intended_emotion_tone": "Descriptive / Neutral"
+    }
+  ],
+  "ইতর": [
+    {
+      "id": "164",
+      "bengali_phrase": "ইতর",
+      "literal_meaning": "Base / Low",
+      "cultural_meaning": "Bad-tempered",
+      "intended_emotion_tone": "Derogatory / Critical"
+    },
+    {
+      "id": "183",
+      "bengali_phrase": "ইতর",
+      "literal_meaning": "Inferior / Base",
+      "cultural_meaning": "Bad-tempered",
+      "intended_emotion_tone": "Negative / Disapproving"
+    }
+  ],
+  "ইঁচড়ে পাকা": [
+    {
+      "id": "165",
+      "bengali_phrase": "ইঁচড়ে পাকা",
+      "literal_meaning": "Ripe in the jackfruit bud",
+      "cultural_meaning": "Premature",
+      "intended_emotion_tone": "Sarcastic / Annoyed"
+    },
+    {
+      "id": "184",
+      "bengali_phrase": "ইঁচড়ে পাকা",
+      "literal_meaning": "Ripe in the jackfruit bud",
+      "cultural_meaning": "precocious",
+      "intended_emotion_tone": "Annoyed / Mocking"
+    }
+  ],
+  "ইন্দ্রপতন": [
+    {
+      "id": "166",
+      "bengali_phrase": "ইন্দ্রপতন",
+      "literal_meaning": "Fall of Indra King of Gods",
+      "cultural_meaning": "Death of a famous person",
+      "intended_emotion_tone": "Mournful / Respectful"
+    },
+    {
+      "id": "185",
+      "bengali_phrase": "ইন্দ্রপতন",
+      "literal_meaning": "Fall of Indra",
+      "cultural_meaning": "Death of a famous person",
+      "intended_emotion_tone": "Somber / Respectful"
+    }
+  ],
+  "ইষ্টনাম জপা": [
+    {
+      "id": "167",
+      "bengali_phrase": "ইষ্টনাম জপা",
+      "literal_meaning": "Chanting the desired/holy name",
+      "cultural_meaning": "Remembering the Creator",
+      "intended_emotion_tone": "Spiritual / Reverent"
+    },
+    {
+      "id": "186",
+      "bengali_phrase": "ইষ্টনাম জপা",
+      "literal_meaning": "Chanting the beloved name",
+      "cultural_meaning": "Remembering the Lord",
+      "intended_emotion_tone": "Devotional / Spiritual"
+    }
+  ],
+  "ইতুনিদকুঁড়ে": [
+    {
+      "id": "168",
+      "bengali_phrase": "ইতুনিদকুঁড়ে",
+      "literal_meaning": "Extremely lazy person",
+      "cultural_meaning": "Lazy",
+      "intended_emotion_tone": "Mocking / Critical"
+    },
+    {
+      "id": "187",
+      "bengali_phrase": "ইতুনিদকুঁড়ে",
+      "literal_meaning": "Idle like Itu",
+      "cultural_meaning": "Lazy",
+      "intended_emotion_tone": "Critical / Mocking"
+    }
+  ],
+  "ইনিয়ে বিনিয়ে": [
+    {
+      "id": "169",
+      "bengali_phrase": "ইনিয়ে বিনিয়ে",
+      "literal_meaning": "Weaving and winding",
+      "cultural_meaning": "Lazy",
+      "intended_emotion_tone": "Annoyed / Frustrated"
+    },
+    {
+      "id": "188",
+      "bengali_phrase": "ইনিয়ে বিনিয়ে",
+      "literal_meaning": "Winding and twisting",
+      "cultural_meaning": "Turn around",
+      "intended_emotion_tone": "Annoyed / Critical"
+    }
+  ],
+  "ইয়ারবকসি": [
+    {
+      "id": "170",
+      "bengali_phrase": "ইয়ারবকসি",
+      "literal_meaning": "Friends and peers",
+      "cultural_meaning": "Friends/Jokes",
+      "intended_emotion_tone": "Casual / Friendly"
+    },
+    {
+      "id": "191",
+      "bengali_phrase": "ইয়ারবকসি",
+      "literal_meaning": "Friends and associates",
+      "cultural_meaning": "Friends/Funny guy",
+      "intended_emotion_tone": "Casual / Friendly"
+    }
+  ],
+  "ইশপিশ করা": [
+    {
+      "id": "171",
+      "bengali_phrase": "ইশপিশ করা",
+      "literal_meaning": "To be restless",
+      "cultural_meaning": "To be restless or fidgety",
+      "intended_emotion_tone": "Anxious / Impatient"
+    },
+    {
+      "id": "189",
+      "bengali_phrase": "ইশপিশ করা",
+      "literal_meaning": "To feel fidgety",
+      "cultural_meaning": "To be restless or fidgety",
+      "intended_emotion_tone": "Anxious / Eager"
+    }
+  ],
+  "ইকড়ি-মিকড়ি": [
+    {
+      "id": "172",
+      "bengali_phrase": "ইকড়ি-মিকড়ি",
+      "literal_meaning": "Eekri-Meekri rhyme sounds",
+      "cultural_meaning": "Children's games",
+      "intended_emotion_tone": "Playful / Nostalgic"
+    },
+    {
+      "id": "190",
+      "bengali_phrase": "ইকড়ি-মিকড়ি",
+      "literal_meaning": "Ikri-mikri",
+      "cultural_meaning": "Children's games",
+      "intended_emotion_tone": "Playful / Lighthearted"
+    }
+  ],
+  "ইল্লতে কাণ্ড": [
+    {
+      "id": "176",
+      "bengali_phrase": "ইল্লতে কাণ্ড",
+      "literal_meaning": "Filthy incident",
+      "cultural_meaning": "Dirty matter / dirty deed",
+      "intended_emotion_tone": "Disgusted / Critical"
+    },
+    {
+      "id": "192",
+      "bengali_phrase": "ইল্লতে কাণ্ড",
+      "literal_meaning": "Filthy incident",
+      "cultural_meaning": "Dirty affair / dirty deed",
+      "intended_emotion_tone": "Disgusted / Critical"
+    }
+  ],
+  "ইতস্তত করা": [
+    {
+      "id": "177",
+      "bengali_phrase": "ইতস্তত করা",
+      "literal_meaning": "To do here and there",
+      "cultural_meaning": "To hesitate",
+      "intended_emotion_tone": "Hesitant / Reluctant"
+    },
+    {
+      "id": "193",
+      "bengali_phrase": "ইতস্তত করা",
+      "literal_meaning": "To do here and there",
+      "cultural_meaning": "To hesitate",
+      "intended_emotion_tone": "Hesitant / Reluctant"
+    }
+  ],
+  "ইন্দ্রের শচী": [
+    {
+      "id": "178",
+      "bengali_phrase": "ইন্দ্রের শচী",
+      "literal_meaning": "Indra's Sachi wife of Indra",
+      "cultural_meaning": "When someone is near, he is his",
+      "intended_emotion_tone": "Mocking / Sarcastic"
+    },
+    {
+      "id": "194",
+      "bengali_phrase": "ইন্দ্রের শচী",
+      "literal_meaning": "Indra's Sachi",
+      "cultural_meaning": "When someone is near, he is his",
+      "intended_emotion_tone": "Mocking / Sarcastic"
+    }
+  ],
+  "এককে একুশ করা": [
+    {
+      "id": "246",
+      "bengali_phrase": "এককে একুশ করা",
+      "literal_meaning": "Making one into twenty-one",
+      "cultural_meaning": "Unnecessary increase",
+      "intended_emotion_tone": "Annoyed / Critical"
+    },
+    {
+      "id": "248",
+      "bengali_phrase": "এককে একুশ করা",
+      "literal_meaning": "Making one into twenty-one",
+      "cultural_meaning": "Unnecessary increase",
+      "intended_emotion_tone": "Annoyed / Critical"
+    }
+  ],
+  "কলির সন্ধ্যা": [
+    {
+      "id": "270",
+      "bengali_phrase": "কলির সন্ধ্যা",
+      "literal_meaning": "Evening of Kali Yuga",
+      "cultural_meaning": "The onset of bad times",
+      "intended_emotion_tone": "Ominous / Pessimistic"
+    },
+    {
+      "id": "326",
+      "bengali_phrase": "কলির সন্ধ্যা",
+      "literal_meaning": "Evening of Kali Yuga",
+      "cultural_meaning": "The beginning of bad times",
+      "intended_emotion_tone": "Ominous / Foreboding"
+    }
+  ],
+  "কিপটের জাসু": [
+    {
+      "id": "339",
+      "bengali_phrase": "কিপটের জাসু",
+      "literal_meaning": "Spy of a miser",
+      "cultural_meaning": "Very stingy",
+      "intended_emotion_tone": "Mocking / Disapproving"
+    },
+    {
+      "id": "370",
+      "bengali_phrase": "কিপটের জাসু",
+      "literal_meaning": "Spy of a miser",
+      "cultural_meaning": "An extremely stingy person",
+      "intended_emotion_tone": "Mocking / Disdainful"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resolved_conflict": {
+    "phrase": "ইনিয়ে বিনিয়ে",
+    "source_ids": [
+      "169",
+      "188"
+    ],
+    "decision": "verified_enriched",
+    "canonical_meaning": "ঘুরিয়ে ফিরিয়ে / নানা প্রকারে / অনুনয়-বিনয় করে"
+  },
+  "merged_records": [
+    {
+      "phrase": "ইঁচড়ে পাকা",
+      "source_ids": [
+        "165",
+        "184"
+      ],
+      "decision": "verified_merged"
+    },
+    {
+      "phrase": "ইয়ারবকসি",
+      "source_ids": [
+        "170",
+        "191"
+      ],
+      "decision": "verified_merged"
+    }
+  ],
+  "sources": [
+    "Bangladesh Accessible Dictionary",
+    "Bangladesh Accessible Dictionary Bengali-to-English"
+  ]
+}

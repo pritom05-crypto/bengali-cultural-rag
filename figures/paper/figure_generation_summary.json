@@ -1,0 +1,6 @@
+{
+  "dataset_records": 408,
+  "dataset_file": "E:\\bengali-cultural-rag\\data\\processed\\final_cultural_dataset.json",
+  "output_directory": "E:\\bengali-cultural-rag\\figures\\paper",
+  "evaluation_available": false
+}

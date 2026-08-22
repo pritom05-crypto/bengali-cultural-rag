@@ -1,0 +1,144 @@
+{
+  "dataset_records": 408,
+  "candidate_records": 12,
+  "final_records": 12,
+  "verified_records": 12,
+  "api_used": false,
+  "model_used": "E5 + BM25 + Meaning Grounding",
+  "benchmark_type": "high-confidence semantic retrieval",
+  "records": [
+    {
+      "id": "B01",
+      "intent": "lazy",
+      "query": "সে খুব অলস এবং কোনো কাজ করতে চায় না।",
+      "gold_phrase": "কুঁড়ের বাঘ",
+      "acceptable_phrases": [
+        "কুঁড়ের বাঘ",
+        "কুড়ের বাদশা",
+        "অকর্মার ধাড়ি",
+        "উদোগেঁড়ে",
+        "ইতুনিদকুঁড়ে"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B02",
+      "intent": "angry",
+      "query": "সে খুব রেগে গেছে এবং প্রচণ্ড রাগান্বিত।",
+      "gold_phrase": "অগ্নিশর্মা",
+      "acceptable_phrases": [
+        "অগ্নিশর্মা"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B03",
+      "intent": "danger",
+      "query": "সে এমন বিপদে পড়েছে যেখান থেকে বের হওয়ার কোনো পথ পাচ্ছে না।",
+      "gold_phrase": "অকূল পাথারে পড়া",
+      "acceptable_phrases": [
+        "অকূল পাথারে পড়া",
+        "আতান্তরে পড়া",
+        "অকূল পাথার",
+        "অথৈ জল",
+        "আকাশ ভেঙ্গে পড়া"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B04",
+      "intent": "confused",
+      "query": "সে কী করবে বুঝতে পারছে না এবং খুব বিভ্রান্ত হয়ে গেছে।",
+      "gold_phrase": "অন্ধকার দেখা",
+      "acceptable_phrases": [
+        "অন্ধকার দেখা"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B05",
+      "intent": "success",
+      "query": "শেষ পর্যন্ত সে সফল হয়েছে এবং তার লক্ষ্য অর্জন করেছে।",
+      "gold_phrase": "কেল্লা ফতে",
+      "acceptable_phrases": [
+        "কেল্লা ফতে"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B06",
+      "intent": "procrastination",
+      "query": "সে কাজটি বারবার পিছিয়ে দিচ্ছে এবং সময় নষ্ট করছে।",
+      "gold_phrase": "আঠার মাসে বছর",
+      "acceptable_phrases": [
+        "আঠার মাসে বছর"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B07",
+      "intent": "deception",
+      "query": "লোকটি কৌশল করে অন্যদের ঠকিয়েছে।",
+      "gold_phrase": "কারিকুরি",
+      "acceptable_phrases": [
+        "কারিকুরি"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B08",
+      "intent": "hardwork",
+      "query": "সে সফল হওয়ার জন্য খুব কঠোর পরিশ্রম করছে।",
+      "gold_phrase": "আদা জল খেয়ে লাগা",
+      "acceptable_phrases": [
+        "আদা জল খেয়ে লাগা"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B09",
+      "intent": "poverty",
+      "query": "লোকটি খুব দরিদ্র এবং অর্থকষ্টে জীবনযাপন করছে।",
+      "gold_phrase": "আকালকেঁড়ে",
+      "acceptable_phrases": [
+        "আকালকেঁড়ে",
+        "অকড়িয়া",
+        "উপোসি ছারপোকা"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B10",
+      "intent": "idle_talk",
+      "query": "সে সারাদিন অপ্রয়োজনীয় ও অর্থহীন কথাবার্তা বলে।",
+      "gold_phrase": "অগড়-বগড় / অগড়ম-বগড়ম",
+      "acceptable_phrases": [
+        "অগড়-বগড় / অগড়ম-বগড়ম",
+        "অগড়-বগড়",
+        "অগড়ম-বগড়ম",
+        "খেজুরে আলাপ"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B11",
+      "intent": "anxiety",
+      "query": "পরিস্থিতির কারণে সে খুব উদ্বিগ্ন ও অস্থির হয়ে পড়েছে।",
+      "gold_phrase": "আঁকুপাঁকু করা",
+      "acceptable_phrases": [
+        "আঁকুপাঁকু করা"
+      ],
+      "verified": true
+    },
+    {
+      "id": "B12",
+      "intent": "pain",
+      "query": "ঘটনাটি তাকে খুব কষ্ট দিয়েছে এবং তার মনে গভীর যন্ত্রণা হয়েছে।",
+      "gold_phrase": "আঁতে ঘা",
+      "acceptable_phrases": [
+        "আঁতে ঘা"
+      ],
+      "verified": true
+    }
+  ]
+}

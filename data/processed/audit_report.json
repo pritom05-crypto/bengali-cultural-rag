@@ -1,0 +1,1225 @@
+{
+  "dataset": {
+    "source_file": "E:\\bengali-cultural-rag\\data\\raw\\idioms_bangla_to_english_dataset.json",
+    "total_records": 425
+  },
+  "validation": {
+    "required_fields": [
+      "id",
+      "bengali_phrase",
+      "literal_meaning",
+      "cultural_meaning",
+      "intended_emotion_tone"
+    ],
+    "missing_field_records": 0,
+    "duplicate_id_count": 0
+  },
+  "duplicates": {
+    "duplicate_phrase_group_count": 21
+  },
+  "variants": {
+    "multi_variant_record_count": 8
+  },
+  "quality_flags": {
+    "very_short_phrase_count": 3,
+    "short_cultural_meaning_count": 117,
+    "review_queue_count": 156
+  },
+  "tone": {
+    "unique_raw_tone_count": 356,
+    "unique_primary_tone_count": 178,
+    "raw_tone_distribution": {
+      "Neutral / Informative": 1,
+      "Anxious / Helpless": 1,
+      "Desperate / Fearful": 1,
+      "Aggressive / Humiliating": 1,
+      "Cautious / Admiring sometimes suspicious": 1,
+      "Disapproving / Annoyed": 1,
+      "Sarcastic / Teasing": 1,
+      "Pitying / Negative": 1,
+      "Cautionary / Didactic": 1,
+      "Surprised / Irritated": 1,
+      "Furious / Angry": 1,
+      "Doubtful / Critical": 1,
+      "Serious / Tense": 1,
+      "Disappointed / Mocking": 1,
+      "Teasing / Sarcastic": 1,
+      "Emphatic / Strict": 1,
+      "Derogatory / Insulting": 3,
+      "Resigned / Helpless": 1,
+      "Morbid / Casual": 1,
+      "Confused / Overwhelmed": 1,
+      "Mocking / Disapproving": 5,
+      "Sad / Philosophical": 1,
+      "Painful / Sorrowful": 2,
+      "Hostile / Bitter": 3,
+      "Anxious / Uncertain": 1,
+      "Descriptive / Respectful": 1,
+      "Joyful": 1,
+      "Sympathetic / Negative": 1,
+      "Mocking / Sarcastic": 4,
+      "Derogatory / Dismissive": 2,
+      "Relieved / Calm": 1,
+      "Neutral / Slightly Dismissive": 1,
+      "Painful / Severe": 1,
+      "Critical": 4,
+      "Intense / Powerful": 1,
+      "Anxious / Rushed": 1,
+      "Frustrated / Annoyed": 2,
+      "Hopeless / Tragic": 1,
+      "Chaotic / Wild": 1,
+      "Sorrowful / Fatalistic": 1,
+      "Grand / Overwhelming": 1,
+      "Restless / Uncomfortable": 1,
+      "Pity / Destitute": 1,
+      "Incredulous / Marveling": 1,
+      "Guilty / Agonized": 1,
+      "Secretive / Informative": 1,
+      "Neutral / Casual": 1,
+      "Descriptive / Traditional": 1,
+      "Somber / Sorrowful": 1,
+      "Desperate / Anxious": 2,
+      "Derogatory / Mocking": 3,
+      "Neutral / Descriptive": 2,
+      "Humorous / Exaggerated": 1,
+      "Frustrated / Negative": 1,
+      "Surprised / Ironic": 1,
+      "Critical / Disapproving": 6,
+      "Anxious / Confused": 1,
+      "Reassuring / Respectful": 1,
+      "Pleading / Humble": 1,
+      "Resolute / Firm": 1,
+      "Restless / Unsettled": 1,
+      "Dismissive / Annoyed": 2,
+      "Final / Somber": 1,
+      "Relieved / Hopeful": 1,
+      "Stunned / Foolish": 1,
+      "Warning / Sarcastic": 1,
+      "Reluctant / Pressured": 1,
+      "Supportive / Desperate": 1,
+      "Reverent / Awe": 1,
+      "Abundant / Positive": 1,
+      "Constant / Stable": 1,
+      "Analytical / Neutral": 1,
+      "Emotional / Sensitive": 1,
+      "Surprised / Shocked": 1,
+      "Dreamy / Unrealistic": 1,
+      "Mature / Wise": 1,
+      "Annoyed / Disapproving": 1,
+      "Dismissive / Irritated": 1,
+      "Insulting / Derogatory": 1,
+      "Hesitant / Unsure": 1,
+      "Disbelief / Surprised": 1,
+      "Pity / Descriptive": 1,
+      "Neutral": 10,
+      "Historical / Ancient": 1,
+      "Boastful / Arrogant": 1,
+      "Elusive / Mysterious": 1,
+      "Dependent / Weak": 1,
+      "Descriptive / Critical": 1,
+      "Painful": 1,
+      "Aggressive / Physical": 1,
+      "Pity / Derogatory": 1,
+      "Descriptive": 1,
+      "Sycophantic / Mocking": 1,
+      "Messy / Descriptive": 1,
+      "Comprehensive": 1,
+      "Flattering / Exaggerated": 1,
+      "Emphasizing / Extreme": 1,
+      "Sarcastic / Regretful": 1,
+      "Sarcastic / Resentful": 1,
+      "Instigating / Aggravating": 1,
+      "Sympathetic / Pitiful": 1,
+      "Hurtful / Offensive": 1,
+      "Humorous / Skeptical": 1,
+      "Secretive / Suspicious": 2,
+      "Neutral / Relieved": 1,
+      "Warning / Mocking": 1,
+      "Anxious / Distressed": 2,
+      "Disparaging / Derogatory": 1,
+      "Festive / Traditional": 2,
+      "Joyful / Playful": 1,
+      "Insulting / Disparaging": 1,
+      "Derogatory / Sympathetic": 1,
+      "Neutral / Medical": 1,
+      "Timid / Hesitant": 1,
+      "Affectionate / Friendly": 1,
+      "Sympathetic / Pitying": 3,
+      "Admiring / Romantic": 1,
+      "Weary / Patient": 1,
+      "Curious / Neutral": 1,
+      "Sarcastic / Mocking": 2,
+      "Desirous / Longing": 1,
+      "Devastated / Shocked": 1,
+      "Determined / Resolute": 1,
+      "Baffled / Shocked": 1,
+      "Frustrated / Disapproving": 1,
+      "Dismissive / Mocking": 1,
+      "Manipulative / Sarcastic": 1,
+      "Joyful / Teasing": 1,
+      "Critical / Humorous": 2,
+      "Confident / Exaggerated": 1,
+      "Restless / Anxious": 1,
+      "Disapproving / Critical": 3,
+      "Anxious / Impatient": 3,
+      "Annoyed / Pitying": 1,
+      "Tense / Frantic": 1,
+      "Amused / Exaggerated": 1,
+      "Anticipatory / Dramatic": 1,
+      "Intense / Overwhelming": 1,
+      "Regretful / Critical": 2,
+      "Annoyed / Dismissive": 1,
+      "Sarcastic / Frustrated": 1,
+      "Aggressive / Enthusiastic depending on context": 1,
+      "Appreciative / Positive": 1,
+      "Joyful / Longing": 2,
+      "Descriptive / Poetic": 2,
+      "Derogatory / Critical": 3,
+      "Sarcastic / Annoyed": 1,
+      "Mournful / Respectful": 1,
+      "Spiritual / Reverent": 2,
+      "Mocking / Critical": 1,
+      "Annoyed / Frustrated": 1,
+      "Casual / Friendly": 2,
+      "Playful / Nostalgic": 1,
+      "Suspicious / Critical": 1,
+      "Neutral / Dismissive": 1,
+      "Informative / Reflective": 1,
+      "Disgusted / Critical": 2,
+      "Hesitant / Reluctant": 2,
+      "Neutral / Analytical": 1,
+      "Descriptive / Neutral": 2,
+      "Negative / Disapproving": 1,
+      "Annoyed / Mocking": 1,
+      "Somber / Respectful": 1,
+      "Devotional / Spiritual": 1,
+      "Critical / Mocking": 1,
+      "Annoyed / Critical": 4,
+      "Anxious / Eager": 1,
+      "Playful / Lighthearted": 1,
+      "Determined / Energetic": 1,
+      "Dismissive / Pitying": 1,
+      "Cautious / Dismissive": 1,
+      "Casual / Positive": 1,
+      "Suspicious / Cautious": 2,
+      "Aggressive / Threatening": 1,
+      "Anxious / Conflicted": 1,
+      "Resentful / Critical": 1,
+      "Neutral / Comparative": 1,
+      "Chaotic / Disorganized": 2,
+      "Agitated / Restless": 1,
+      "Pitying / Mocking": 1,
+      "Appreciative / Admiring": 1,
+      "Direct / Neutral": 1,
+      "Pitying / Patronizing": 1,
+      "Generous / Benevolent": 1,
+      "Frustrated / Regretful": 1,
+      "Annoyed / Irritated": 1,
+      "Reluctant / Resigned": 1,
+      "Unjust / Indignant": 1,
+      "Poetic / Descriptive": 1,
+      "Pitying / Insulting": 1,
+      "Neutral / Quantifying": 1,
+      "Strong / Powerful": 1,
+      "Spiritual / Solemn": 1,
+      "Mocking / Clinical": 1,
+      "Clinical / Painful": 1,
+      "Detached / Aloof": 1,
+      "Admiring / Aspirant": 1,
+      "Descriptive / Surrendered": 1,
+      "Proverbial / Observational": 1,
+      "Dismissive / Derogatory": 1,
+      "Casual / Helpful": 1,
+      "Threatening / Vengeful": 1,
+      "Dismissive / Categorizing": 1,
+      "Melancholic / Sympathetic": 1,
+      "Playful / Mocking": 1,
+      "Awestruck / Impressed": 1,
+      "Mocking / Derogatory": 3,
+      "Respectful / Admiring": 1,
+      "Tense / Cautious": 1,
+      "Critical / Annoyed": 1,
+      "Urgent / Swift": 1,
+      "Observational / Neutral": 1,
+      "Decisive / Resolute": 1,
+      "Dominant / Bossy": 1,
+      "Aimless / Wandering": 1,
+      "Inattentive / Ignorant": 1,
+      "Joyful / Lucky": 1,
+      "Clever / Triumphant": 1,
+      "Unfair / Disappointed": 1,
+      "Warning / Threatening": 1,
+      "Manipulative / Persuasive": 1,
+      "Dreadful / Tragic": 1,
+      "Fearful / Dire": 1,
+      "Sneaky / Predatory": 1,
+      "Manipulative / Controlling": 1,
+      "Cautious / Respectful": 1,
+      "Effective / Satisfied": 1,
+      "Ironic / Helpless": 1,
+      "Inexperienced / Novice": 1,
+      "Mocking / Dismissive": 2,
+      "Ominous / Pessimistic": 1,
+      "Prosperous / Excited": 1,
+      "Sarcastic / Derogatory": 1,
+      "Validated / Accepted": 1,
+      "Passive / Insulting": 1,
+      "Conflicted / Trapped": 1,
+      "Mocking / Ignorant": 1,
+      "Disapproving / Regretful": 1,
+      "Critical / Careless": 1,
+      "Appreciative / Formal": 1,
+      "Sarcastic / Unbelieving": 1,
+      "Astonished / Resilient": 1,
+      "Dismissive / Casual": 1,
+      "Threatening / Teaching a lesson": 1,
+      "Serious / Committed": 1,
+      "Gossiping / Negative": 1,
+      "Watchful / Alert": 1,
+      "Manipulative / Toxic": 1,
+      "Resigned / Encouraging": 1,
+      "Sympathetic / Exhausted": 1,
+      "Chaotic / Aggressive": 1,
+      "Gullible / Naive": 1,
+      "Argumentative / Hostile": 1,
+      "Stubborn / Ignoring": 1,
+      "Shameless / Insulting": 1,
+      "Intense / Agonizing": 1,
+      "Disgraceful / Condemning": 1,
+      "Stubborn / Persistent": 1,
+      "Alert / Attentive": 1,
+      "Exact / Precise": 1,
+      "Affectionate / Caring": 1,
+      "Deceptive / Mocking": 1,
+      "Surprised / Neutral": 1,
+      "Resentful / Hostile": 1,
+      "Derogatory / Exaggerated": 1,
+      "Humiliated / Suppressed": 1,
+      "Humorous / Pitying": 1,
+      "Informative / Gossipy": 1,
+      "Exaggerated / Overwhelmed": 1,
+      "Astonished / Descriptive": 1,
+      "Admiring / Amused": 1,
+      "Unfair / Critical": 1,
+      "Disgusted / Dismissive": 1,
+      "Pitying / Miserable": 1,
+      "Appreciative / Fortunate": 1,
+      "Lazy / Bored": 1,
+      "Respectful / Trustworthy": 1,
+      "Determined / Desperate": 1,
+      "Independent / Resilient": 1,
+      "Harsh / Offensive": 1,
+      "Dismissive / Incredulous": 1,
+      "Overwhelmed / Frustrated": 1,
+      "Ominous / Foreboding": 1,
+      "Alert / Cautious": 1,
+      "Trapped / Frustrated": 1,
+      "Subdued / Controlled": 1,
+      "Unexpected / Disruptive": 1,
+      "Stubborn / Obstinate": 1,
+      "Dependent / Devoted": 1,
+      "Dominant / Triumphant": 1,
+      "Meager / Pitiful": 1,
+      "Exiled / Fearful": 1,
+      "Useless / Derogatory": 1,
+      "Ironic / Pathetic": 1,
+      "Misguided / Lost": 1,
+      "Chaotic / Uproarious": 1,
+      "Disgusted / Shocked": 1,
+      "Wealthy / Awestruck": 1,
+      "Insignificant / Trivial": 1,
+      "Mocking / Useless": 1,
+      "Unbelievable / Sarcastic": 1,
+      "Quarrelsome / Annoying": 1,
+      "Deflated / Ruined": 1,
+      "Dire / Problematic": 1,
+      "Dismissive / Trivial": 1,
+      "Triumphant / Victorious": 1,
+      "Hopeful / Joyful": 1,
+      "Sarcastic / Critical": 2,
+      "Sarcastic / Respectful": 1,
+      "Despairing / Sad": 1,
+      "Awkward / Insincere": 1,
+      "Humorous / Mocking": 2,
+      "Critical / Resentful": 1,
+      "Appreciative": 2,
+      "Dominant / Aggressive": 1,
+      "Empathetic / Pitying": 1,
+      "Mocking / Annoyed": 1,
+      "Suspicious": 1,
+      "Insulting / Angry": 1,
+      "Mocking / Disdainful": 1,
+      "Solemn / Spiritual": 1,
+      "Anxious / Fearful": 1,
+      "Intimidated / Descriptive": 1,
+      "Stubborn / Negative": 1,
+      "Disgusted / Derogatory": 1,
+      "Surprised / Alarmed": 1,
+      "Frustrated / Angry": 1,
+      "Strategic / Cunning": 1,
+      "Mocking": 1,
+      "Cunning": 1,
+      "Resentful / Frustrated": 1,
+      "Humiliated / Resigned": 1,
+      "Annoyed": 2,
+      "Mocking / Amused": 1,
+      "Sarcastic": 1,
+      "Strategic": 1,
+      "Fearful / Resentful": 1,
+      "Astonished / Overwhelmed": 1,
+      "Sad / Pitying": 1,
+      "Dismissive": 1,
+      "Angry / Vulgar": 1,
+      "Submissive / Defeated": 1,
+      "Disapproving": 1,
+      "Mocking / Humorous": 1,
+      "Assured / Relaxed": 1,
+      "Casual / Lighthearted": 1,
+      "Intense / Dramatic": 1,
+      "Despairing / Disappointed": 1,
+      "Frustrated / Agonizing": 1,
+      "Derogatory": 1,
+      "Affectionate": 1,
+      "Proactive": 1,
+      "Insulting": 1,
+      "Dishonest / Critical": 1,
+      "Neutral / Elaborate": 1,
+      "Burdensome / Annoying": 1
+    },
+    "primary_tone_distribution": {
+      "Neutral": 22,
+      "Anxious": 12,
+      "Desperate": 3,
+      "Aggressive": 4,
+      "Cautious": 3,
+      "Disapproving": 6,
+      "Sarcastic": 13,
+      "Pitying": 5,
+      "Cautionary": 1,
+      "Surprised": 5,
+      "Furious": 1,
+      "Doubtful": 1,
+      "Serious": 2,
+      "Disappointed": 1,
+      "Teasing": 1,
+      "Emphatic": 1,
+      "Derogatory": 14,
+      "Resigned": 2,
+      "Morbid": 1,
+      "Confused": 1,
+      "Mocking": 23,
+      "Sad": 2,
+      "Painful": 4,
+      "Hostile": 3,
+      "Descriptive": 9,
+      "Joyful": 6,
+      "Sympathetic": 6,
+      "Relieved": 2,
+      "Critical": 16,
+      "Intense": 4,
+      "Frustrated": 7,
+      "Hopeless": 1,
+      "Chaotic": 5,
+      "Sorrowful": 1,
+      "Grand": 1,
+      "Restless": 3,
+      "Pity": 3,
+      "Incredulous": 1,
+      "Guilty": 1,
+      "Secretive": 3,
+      "Somber": 2,
+      "Humorous": 5,
+      "Reassuring": 1,
+      "Pleading": 1,
+      "Resolute": 1,
+      "Dismissive": 11,
+      "Final": 1,
+      "Stunned": 1,
+      "Warning": 3,
+      "Reluctant": 2,
+      "Supportive": 1,
+      "Reverent": 1,
+      "Abundant": 1,
+      "Constant": 1,
+      "Analytical": 1,
+      "Emotional": 1,
+      "Dreamy": 1,
+      "Mature": 1,
+      "Annoyed": 12,
+      "Insulting": 4,
+      "Hesitant": 3,
+      "Disbelief": 1,
+      "Historical": 1,
+      "Boastful": 1,
+      "Elusive": 1,
+      "Dependent": 2,
+      "Sycophantic": 1,
+      "Messy": 1,
+      "Comprehensive": 1,
+      "Flattering": 1,
+      "Emphasizing": 1,
+      "Instigating": 1,
+      "Hurtful": 1,
+      "Disparaging": 1,
+      "Festive": 2,
+      "Timid": 1,
+      "Affectionate": 3,
+      "Admiring": 3,
+      "Weary": 1,
+      "Curious": 1,
+      "Desirous": 1,
+      "Devastated": 1,
+      "Determined": 3,
+      "Baffled": 1,
+      "Manipulative": 4,
+      "Confident": 1,
+      "Tense": 2,
+      "Amused": 1,
+      "Anticipatory": 1,
+      "Regretful": 2,
+      "Appreciative": 6,
+      "Mournful": 1,
+      "Spiritual": 3,
+      "Casual": 5,
+      "Playful": 3,
+      "Suspicious": 4,
+      "Informative": 2,
+      "Disgusted": 5,
+      "Negative": 1,
+      "Devotional": 1,
+      "Resentful": 3,
+      "Agitated": 1,
+      "Direct": 1,
+      "Generous": 1,
+      "Unjust": 1,
+      "Poetic": 1,
+      "Strong": 1,
+      "Clinical": 1,
+      "Detached": 1,
+      "Proverbial": 1,
+      "Threatening": 2,
+      "Melancholic": 1,
+      "Awestruck": 1,
+      "Respectful": 2,
+      "Urgent": 1,
+      "Observational": 1,
+      "Decisive": 1,
+      "Dominant": 3,
+      "Aimless": 1,
+      "Inattentive": 1,
+      "Clever": 1,
+      "Unfair": 2,
+      "Dreadful": 1,
+      "Fearful": 2,
+      "Sneaky": 1,
+      "Effective": 1,
+      "Ironic": 2,
+      "Inexperienced": 1,
+      "Ominous": 2,
+      "Prosperous": 1,
+      "Validated": 1,
+      "Passive": 1,
+      "Conflicted": 1,
+      "Astonished": 3,
+      "Gossiping": 1,
+      "Watchful": 1,
+      "Gullible": 1,
+      "Argumentative": 1,
+      "Stubborn": 4,
+      "Shameless": 1,
+      "Disgraceful": 1,
+      "Alert": 2,
+      "Exact": 1,
+      "Deceptive": 1,
+      "Humiliated": 2,
+      "Exaggerated": 1,
+      "Lazy": 1,
+      "Independent": 1,
+      "Harsh": 1,
+      "Overwhelmed": 1,
+      "Trapped": 1,
+      "Subdued": 1,
+      "Unexpected": 1,
+      "Meager": 1,
+      "Exiled": 1,
+      "Useless": 1,
+      "Misguided": 1,
+      "Wealthy": 1,
+      "Insignificant": 1,
+      "Unbelievable": 1,
+      "Quarrelsome": 1,
+      "Deflated": 1,
+      "Dire": 1,
+      "Triumphant": 1,
+      "Hopeful": 1,
+      "Despairing": 2,
+      "Awkward": 1,
+      "Empathetic": 1,
+      "Solemn": 1,
+      "Intimidated": 1,
+      "Strategic": 2,
+      "Cunning": 1,
+      "Angry": 1,
+      "Submissive": 1,
+      "Assured": 1,
+      "Proactive": 1,
+      "Dishonest": 1,
+      "Burdensome": 1
+    }
+  },
+  "details": {
+    "missing_fields": [],
+    "duplicate_ids": [],
+    "short_phrases": [
+      {
+        "id": "164",
+        "bengali_phrase": "ইতর"
+      },
+      {
+        "id": "183",
+        "bengali_phrase": "ইতর"
+      },
+      {
+        "id": "227",
+        "bengali_phrase": "ঊরা"
+      }
+    ],
+    "short_meanings": [
+      {
+        "id": "7",
+        "bengali_phrase": "অমাবস্যার চাঁদ",
+        "cultural_meaning": "Rare item"
+      },
+      {
+        "id": "8",
+        "bengali_phrase": "অলক্ষ্মীর দশা",
+        "cultural_meaning": "Poverty"
+      },
+      {
+        "id": "16",
+        "bengali_phrase": "অক্ষরে অক্ষরে",
+        "cultural_meaning": "Completely"
+      },
+      {
+        "id": "17",
+        "bengali_phrase": "অকাল কুষ্মাণ্ড",
+        "cultural_meaning": "Useless"
+      },
+      {
+        "id": "19",
+        "bengali_phrase": "অক্কা পাওয়া",
+        "cultural_meaning": "To die"
+      },
+      {
+        "id": "20",
+        "bengali_phrase": "অন্ধকার দেখা",
+        "cultural_meaning": "Confused"
+      },
+      {
+        "id": "21",
+        "bengali_phrase": "অজগর বৃত্তি",
+        "cultural_meaning": "Laziness"
+      },
+      {
+        "id": "25",
+        "bengali_phrase": "অস্থির পঞ্চক",
+        "cultural_meaning": "Confused"
+      },
+      {
+        "id": "27",
+        "bengali_phrase": "অষ্টমঙ্গলা",
+        "cultural_meaning": "Excitement"
+      },
+      {
+        "id": "28",
+        "bengali_phrase": "অষ্টকপাল",
+        "cultural_meaning": "Unfortunate"
+      },
+      {
+        "id": "29",
+        "bengali_phrase": "অকালপক্ব",
+        "cultural_meaning": "precocious"
+      },
+      {
+        "id": "31",
+        "bengali_phrase": "অঙ্গ জল হওয়া",
+        "cultural_meaning": "Cool"
+      },
+      {
+        "id": "36",
+        "bengali_phrase": "অন্তব্যস্ত",
+        "cultural_meaning": "Very busy"
+      },
+      {
+        "id": "41",
+        "bengali_phrase": "অশ্বমেধ যজ্ঞ",
+        "cultural_meaning": "Huge event"
+      },
+      {
+        "id": "42",
+        "bengali_phrase": "অকটবিকট",
+        "cultural_meaning": "Chatter"
+      },
+      {
+        "id": "43",
+        "bengali_phrase": "অকড়িয়া",
+        "cultural_meaning": "Moneyless"
+      },
+      {
+        "id": "49",
+        "bengali_phrase": "অনন্তশয্যা",
+        "cultural_meaning": "Death bed"
+      },
+      {
+        "id": "51",
+        "bengali_phrase": "অকর্মার ধাড়ি",
+        "cultural_meaning": "Very lazy."
+      },
+      {
+        "id": "56",
+        "bengali_phrase": "অষ্টাবক্র",
+        "cultural_meaning": "Ugly"
+      },
+      {
+        "id": "58",
+        "bengali_phrase": "অস্থির পাজক",
+        "cultural_meaning": "Confused"
+      },
+      {
+        "id": "60",
+        "bengali_phrase": "অনুনয়-বিনয়",
+        "cultural_meaning": "Obsecration"
+      },
+      {
+        "id": "76",
+        "bengali_phrase": "আকাশ থেকে পড়া",
+        "cultural_meaning": "Unexpected"
+      },
+      {
+        "id": "78",
+        "bengali_phrase": "আদায় কাঁচকলায়",
+        "cultural_meaning": "Hostility"
+      },
+      {
+        "id": "80",
+        "bengali_phrase": "আদিখ্যেতা",
+        "cultural_meaning": "Nasty"
+      },
+      {
+        "id": "81",
+        "bengali_phrase": "আবোল-তাবোল",
+        "cultural_meaning": "Nonsense"
+      },
+      {
+        "id": "82",
+        "bengali_phrase": "আমড়া কাঠের ঢেঁকি",
+        "cultural_meaning": "Useless"
+      },
+      {
+        "id": "83",
+        "bengali_phrase": "আমতা আমতা করা",
+        "cultural_meaning": "To hesitate"
+      },
+      {
+        "id": "85",
+        "bengali_phrase": "আটাশে ছেলে",
+        "cultural_meaning": "Weak boy"
+      },
+      {
+        "id": "89",
+        "bengali_phrase": "আলেয়ার আলো",
+        "cultural_meaning": "Rare item"
+      },
+      {
+        "id": "90",
+        "bengali_phrase": "আঁচল ধরে বেড়ানো",
+        "cultural_meaning": "Impersonal"
+      },
+      {
+        "id": "93",
+        "bengali_phrase": "আজল-পাঁজল",
+        "cultural_meaning": "Shaking"
+      },
+      {
+        "id": "95",
+        "bengali_phrase": "আদুড়চুলি",
+        "cultural_meaning": "Unveiling"
+      },
+      {
+        "id": "96",
+        "bengali_phrase": "আপকেওয়াস্তে",
+        "cultural_meaning": "Flatterer"
+      },
+      {
+        "id": "97",
+        "bengali_phrase": "আলুথালু",
+        "cultural_meaning": "Random"
+      },
+      {
+        "id": "124",
+        "bengali_phrase": "আজবখানা / আজবঘর",
+        "cultural_meaning": "A museum"
+      },
+      {
+        "id": "151",
+        "bengali_phrase": "আগন্যাংলা",
+        "cultural_meaning": "Forward"
+      },
+      {
+        "id": "157",
+        "bengali_phrase": "আটখান করা / আটখানা করা",
+        "cultural_meaning": "To shred"
+      },
+      {
+        "id": "158",
+        "bengali_phrase": "আকেলমন্ত / আক্কেলমন্দ",
+        "cultural_meaning": "Considering"
+      },
+      {
+        "id": "165",
+        "bengali_phrase": "ইঁচড়ে পাকা",
+        "cultural_meaning": "Premature"
+      },
+      {
+        "id": "168",
+        "bengali_phrase": "ইতুনিদকুঁড়ে",
+        "cultural_meaning": "Lazy"
+      },
+      {
+        "id": "169",
+        "bengali_phrase": "ইনিয়ে বিনিয়ে",
+        "cultural_meaning": "Lazy"
+      },
+      {
+        "id": "177",
+        "bengali_phrase": "ইতস্তত করা",
+        "cultural_meaning": "To hesitate"
+      },
+      {
+        "id": "184",
+        "bengali_phrase": "ইঁচড়ে পাকা",
+        "cultural_meaning": "precocious"
+      },
+      {
+        "id": "187",
+        "bengali_phrase": "ইতুনিদকুঁড়ে",
+        "cultural_meaning": "Lazy"
+      },
+      {
+        "id": "188",
+        "bengali_phrase": "ইনিয়ে বিনিয়ে",
+        "cultural_meaning": "Turn around"
+      },
+      {
+        "id": "193",
+        "bengali_phrase": "ইতস্তত করা",
+        "cultural_meaning": "To hesitate"
+      },
+      {
+        "id": "197",
+        "bengali_phrase": "উড়ো কথা",
+        "cultural_meaning": "Rumor"
+      },
+      {
+        "id": "199",
+        "bengali_phrase": "উড়নচণ্ডী",
+        "cultural_meaning": "Extravagant"
+      },
+      {
+        "id": "202",
+        "bengali_phrase": "শাখের করাত",
+        "cultural_meaning": "Both crises"
+      },
+      {
+        "id": "205",
+        "bengali_phrase": "উকর-ধাকর",
+        "cultural_meaning": "Randomly"
+      },
+      {
+        "id": "206",
+        "bengali_phrase": "উজলপাজল",
+        "cultural_meaning": "Up and down"
+      },
+      {
+        "id": "207",
+        "bengali_phrase": "উপোসি ছারপোকা",
+        "cultural_meaning": "Poor person"
+      },
+      {
+        "id": "208",
+        "bengali_phrase": "উটকো লোক",
+        "cultural_meaning": "Stranger"
+      },
+      {
+        "id": "209",
+        "bengali_phrase": "উড়নপেকে",
+        "cultural_meaning": "Wasteful"
+      },
+      {
+        "id": "210",
+        "bengali_phrase": "উসখুস করা",
+        "cultural_meaning": "To squirm"
+      },
+      {
+        "id": "211",
+        "bengali_phrase": "উঁচু কপালে",
+        "cultural_meaning": "Lucky"
+      },
+      {
+        "id": "213",
+        "bengali_phrase": "উদোগেঁড়ে",
+        "cultural_meaning": "Lazy"
+      },
+      {
+        "id": "215",
+        "bengali_phrase": "উপুরহস্ত করা",
+        "cultural_meaning": "Donate"
+      },
+      {
+        "id": "217",
+        "bengali_phrase": "উস্তন খুস্তন করা",
+        "cultural_meaning": "To tease"
+      },
+      {
+        "id": "220",
+        "bengali_phrase": "ঊর্মিমালী",
+        "cultural_meaning": "Sea"
+      },
+      {
+        "id": "223",
+        "bengali_phrase": "উর্জস্থল",
+        "cultural_meaning": "Strong"
+      },
+      {
+        "id": "226",
+        "bengali_phrase": "ঊনপঞ্চাশ বায়ু",
+        "cultural_meaning": "Madness"
+      },
+      {
+        "id": "227",
+        "bengali_phrase": "ঊরা",
+        "cultural_meaning": "To appear"
+      },
+      {
+        "id": "229",
+        "bengali_phrase": "ঊর্ধ্বনেত্র",
+        "cultural_meaning": "Bored look"
+      },
+      {
+        "id": "230",
+        "bengali_phrase": "ঊর্ধ্বচারী",
+        "cultural_meaning": "Ambitious"
+      },
+      {
+        "id": "231",
+        "bengali_phrase": "ঊর্ধ্ববাহ",
+        "cultural_meaning": "Hands up"
+      },
+      {
+        "id": "233",
+        "bengali_phrase": "ঊর্ধ্বলোক",
+        "cultural_meaning": "Heaven"
+      },
+      {
+        "id": "234",
+        "bengali_phrase": "এলেবেলে",
+        "cultural_meaning": "Inferior"
+      },
+      {
+        "id": "236",
+        "bengali_phrase": "এক ডাকের পথ",
+        "cultural_meaning": "Nearby"
+      },
+      {
+        "id": "237",
+        "bengali_phrase": "এক হাত লওয়া",
+        "cultural_meaning": "Revenge"
+      },
+      {
+        "id": "239",
+        "bengali_phrase": "একা দোকা",
+        "cultural_meaning": "Lonely"
+      },
+      {
+        "id": "240",
+        "bengali_phrase": "এলকুমি-বেলকুমি",
+        "cultural_meaning": "Gestures"
+      },
+      {
+        "id": "241",
+        "bengali_phrase": "এলাহি কাণ্ড",
+        "cultural_meaning": "Big event"
+      },
+      {
+        "id": "247",
+        "bengali_phrase": "এক লহমায়",
+        "cultural_meaning": "In a moment"
+      },
+      {
+        "id": "249",
+        "bengali_phrase": "এক ছাঁচে ঢালা",
+        "cultural_meaning": "Similarity"
+      },
+      {
+        "id": "251",
+        "bengali_phrase": "এসপার ওসপার",
+        "cultural_meaning": "Settlement"
+      },
+      {
+        "id": "252",
+        "bengali_phrase": "একা ঘরে গিন্নি",
+        "cultural_meaning": "Authority"
+      },
+      {
+        "id": "254",
+        "bengali_phrase": "এলাকাঁড়ি",
+        "cultural_meaning": "Inattention"
+      },
+      {
+        "id": "260",
+        "bengali_phrase": "ওষুধ পড়া",
+        "cultural_meaning": "Impact"
+      },
+      {
+        "id": "261",
+        "bengali_phrase": "ওলা-ওঠা প্রতি ঘরে",
+        "cultural_meaning": "Epidemic"
+      },
+      {
+        "id": "264",
+        "bengali_phrase": "ওষুধ করা",
+        "cultural_meaning": "Subdue"
+      },
+      {
+        "id": "268",
+        "bengali_phrase": "কাঁচা হাত",
+        "cultural_meaning": "Immature"
+      },
+      {
+        "id": "269",
+        "bengali_phrase": "কাগুজে বাঘ",
+        "cultural_meaning": "Fake poker"
+      },
+      {
+        "id": "271",
+        "bengali_phrase": "কাঁচা পয়সা",
+        "cultural_meaning": "Earn cash"
+      },
+      {
+        "id": "273",
+        "bengali_phrase": "কল্কে পাওয়া",
+        "cultural_meaning": "To care"
+      },
+      {
+        "id": "274",
+        "bengali_phrase": "কাঠের পুতুল",
+        "cultural_meaning": "Inanimate"
+      },
+      {
+        "id": "275",
+        "bengali_phrase": "করাতের দাঁত",
+        "cultural_meaning": "Both crises"
+      },
+      {
+        "id": "278",
+        "bengali_phrase": "কাছা ঢিলা",
+        "cultural_meaning": "Careless"
+      },
+      {
+        "id": "279",
+        "bengali_phrase": "কেতাদুরস্ত",
+        "cultural_meaning": "Tidy"
+      },
+      {
+        "id": "284",
+        "bengali_phrase": "কত ধানে কত চাল",
+        "cultural_meaning": "To sense"
+      },
+      {
+        "id": "285",
+        "bengali_phrase": "কথা দেয়া",
+        "cultural_meaning": "To promise"
+      },
+      {
+        "id": "286",
+        "bengali_phrase": "কথা চালা",
+        "cultural_meaning": "To rant"
+      },
+      {
+        "id": "287",
+        "bengali_phrase": "কাক নিদ্রা",
+        "cultural_meaning": "Light sleep"
+      },
+      {
+        "id": "289",
+        "bengali_phrase": "কেঁচো গণ্ডূষ",
+        "cultural_meaning": "Start over"
+      },
+      {
+        "id": "293",
+        "bengali_phrase": "কাটাকাটি করা",
+        "cultural_meaning": "To protest"
+      },
+      {
+        "id": "294",
+        "bengali_phrase": "কানে তুলো দেয়া",
+        "cultural_meaning": "Don't stare"
+      },
+      {
+        "id": "295",
+        "bengali_phrase": "কান কাটা",
+        "cultural_meaning": "Perky"
+      },
+      {
+        "id": "299",
+        "bengali_phrase": "কচ্ছপের কামড়",
+        "cultural_meaning": "Persistent"
+      },
+      {
+        "id": "301",
+        "bengali_phrase": "কড়ায় গণ্ডায়",
+        "cultural_meaning": "Completely"
+      },
+      {
+        "id": "302",
+        "bengali_phrase": "কোলে পিঠে মানুষ করা",
+        "cultural_meaning": "Nurture"
+      },
+      {
+        "id": "305",
+        "bengali_phrase": "কলা দেখানো",
+        "cultural_meaning": "Evasion"
+      },
+      {
+        "id": "312",
+        "bengali_phrase": "কতশত",
+        "cultural_meaning": "Numerous"
+      },
+      {
+        "id": "314",
+        "bengali_phrase": "কথার ফুলঝুরি",
+        "cultural_meaning": "Eloquence"
+      },
+      {
+        "id": "315",
+        "bengali_phrase": "কানি খাওয়া",
+        "cultural_meaning": "Bias"
+      },
+      {
+        "id": "316",
+        "bengali_phrase": "কচু পোড়া",
+        "cultural_meaning": "Inedible"
+      },
+      {
+        "id": "318",
+        "bengali_phrase": "কড়ি কপালে",
+        "cultural_meaning": "Lucky"
+      },
+      {
+        "id": "323",
+        "bengali_phrase": "কটু কাটব্য",
+        "cultural_meaning": "Reprimand"
+      },
+      {
+        "id": "324",
+        "bengali_phrase": "কপোল-কল্পনা",
+        "cultural_meaning": "Fiction"
+      },
+      {
+        "id": "325",
+        "bengali_phrase": "কাজের থই",
+        "cultural_meaning": "Work limits"
+      },
+      {
+        "id": "330",
+        "bengali_phrase": "কায়দা হওয়া",
+        "cultural_meaning": "To submit"
+      },
+      {
+        "id": "338",
+        "bengali_phrase": "কাঁজি ভক্ষণ নামে গোয়ালা",
+        "cultural_meaning": "Unfortunate"
+      },
+      {
+        "id": "339",
+        "bengali_phrase": "কিপটের জাসু",
+        "cultural_meaning": "Very stingy"
+      },
+      {
+        "id": "344",
+        "bengali_phrase": "কুঁচো বাসন",
+        "cultural_meaning": "Small plate"
+      },
+      {
+        "id": "345",
+        "bengali_phrase": "কুমড়ো কাটা বটঠাকুর",
+        "cultural_meaning": "Idle person"
+      },
+      {
+        "id": "350",
+        "bengali_phrase": "কেউ কেটা",
+        "cultural_meaning": "Petty"
+      },
+      {
+        "id": "369",
+        "bengali_phrase": "কালামুখো",
+        "cultural_meaning": "Shameless"
+      },
+      {
+        "id": "394",
+        "bengali_phrase": "খন্ড কপাল",
+        "cultural_meaning": "Bad luck"
+      }
+    ],
+    "variants": [
+      {
+        "id": "63",
+        "bengali_phrase": "অগড়-বগড় / অগড়ম-বগড়ম",
+        "cultural_meaning": "Meaningless or idle talk / the ravings of a madman",
+        "intended_emotion_tone": "Dismissive / Annoyed"
+      },
+      {
+        "id": "69",
+        "bengali_phrase": "অগাকাণ্ড / অঘাচণ্ডি / অঘারাম",
+        "cultural_meaning": "Foolish / Stupid",
+        "intended_emotion_tone": "Derogatory / Mocking"
+      },
+      {
+        "id": "124",
+        "bengali_phrase": "আজবখানা / আজবঘর",
+        "cultural_meaning": "A museum",
+        "intended_emotion_tone": "Curious / Neutral"
+      },
+      {
+        "id": "157",
+        "bengali_phrase": "আটখান করা / আটখানা করা",
+        "cultural_meaning": "To shred",
+        "intended_emotion_tone": "Aggressive / Enthusiastic depending on context"
+      },
+      {
+        "id": "158",
+        "bengali_phrase": "আকেলমন্ত / আক্কেলমন্দ",
+        "cultural_meaning": "Considering",
+        "intended_emotion_tone": "Appreciative / Positive"
+      },
+      {
+        "id": "257",
+        "bengali_phrase": "এলোপাতাড়ি/এলোপাথাড়ি/এলোধাবাড়ি",
+        "cultural_meaning": "To make a mess",
+        "intended_emotion_tone": "Chaotic / Disorganized"
+      },
+      {
+        "id": "304",
+        "bengali_phrase": "কুম্ভকর্ণের ঘুম / নিদ্রা",
+        "cultural_meaning": "Long-term laziness",
+        "intended_emotion_tone": "Critical / Humorous"
+      },
+      {
+        "id": "386",
+        "bengali_phrase": "কচকচি/কচকচানি",
+        "cultural_meaning": "Bickering or arguing",
+        "intended_emotion_tone": "Annoyed"
+      }
+    ]
+  }
+}

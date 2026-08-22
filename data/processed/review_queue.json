@@ -1,0 +1,1889 @@
+[
+  {
+    "id": "7",
+    "bengali_phrase": "অমাবস্যার চাঁদ",
+    "literal_meaning": "Moon of the new moon night",
+    "cultural_meaning": "Rare item",
+    "intended_emotion_tone": "Sarcastic / Teasing",
+    "primary_tone_candidate": "Sarcastic",
+    "secondary_tone_candidate": "Teasing",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "8",
+    "bengali_phrase": "অলক্ষ্মীর দশা",
+    "literal_meaning": "The state of Alakshmi Goddess of misfortune",
+    "cultural_meaning": "Poverty",
+    "intended_emotion_tone": "Pitying / Negative",
+    "primary_tone_candidate": "Pitying",
+    "secondary_tone_candidate": "Negative",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "16",
+    "bengali_phrase": "অক্ষরে অক্ষরে",
+    "literal_meaning": "Letter by letter",
+    "cultural_meaning": "Completely",
+    "intended_emotion_tone": "Emphatic / Strict",
+    "primary_tone_candidate": "Emphatic",
+    "secondary_tone_candidate": "Strict",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "17",
+    "bengali_phrase": "অকাল কুষ্মাণ্ড",
+    "literal_meaning": "Out-of-season pumpkin",
+    "cultural_meaning": "Useless",
+    "intended_emotion_tone": "Derogatory / Insulting",
+    "primary_tone_candidate": "Derogatory",
+    "secondary_tone_candidate": "Insulting",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "19",
+    "bengali_phrase": "অক্কা পাওয়া",
+    "literal_meaning": "Getting Akka Dying",
+    "cultural_meaning": "To die",
+    "intended_emotion_tone": "Morbid / Casual",
+    "primary_tone_candidate": "Morbid",
+    "secondary_tone_candidate": "Casual",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "20",
+    "bengali_phrase": "অন্ধকার দেখা",
+    "literal_meaning": "Seeing darkness",
+    "cultural_meaning": "Confused",
+    "intended_emotion_tone": "Confused / Overwhelmed",
+    "primary_tone_candidate": "Confused",
+    "secondary_tone_candidate": "Overwhelmed",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "21",
+    "bengali_phrase": "অজগর বৃত্তি",
+    "literal_meaning": "Python's profession",
+    "cultural_meaning": "Laziness",
+    "intended_emotion_tone": "Mocking / Disapproving",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Disapproving",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "22",
+    "bengali_phrase": "অদৃষ্টের পরিহাস",
+    "literal_meaning": "Irony of fate",
+    "cultural_meaning": "Irony of fate",
+    "intended_emotion_tone": "Sad / Philosophical",
+    "primary_tone_candidate": "Sad",
+    "secondary_tone_candidate": "Philosophical",
+    "review_reasons": [
+      "literal_and_cultural_meaning_same"
+    ]
+  },
+  {
+    "id": "25",
+    "bengali_phrase": "অস্থির পঞ্চক",
+    "literal_meaning": "Restless five",
+    "cultural_meaning": "Confused",
+    "intended_emotion_tone": "Anxious / Uncertain",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Uncertain",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "27",
+    "bengali_phrase": "অষ্টমঙ্গলা",
+    "literal_meaning": "The eighth auspicious day",
+    "cultural_meaning": "Excitement",
+    "intended_emotion_tone": "Joyful",
+    "primary_tone_candidate": "Joyful",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "28",
+    "bengali_phrase": "অষ্টকপাল",
+    "literal_meaning": "Eight foreheads fates",
+    "cultural_meaning": "Unfortunate",
+    "intended_emotion_tone": "Sympathetic / Negative",
+    "primary_tone_candidate": "Sympathetic",
+    "secondary_tone_candidate": "Negative",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "29",
+    "bengali_phrase": "অকালপক্ব",
+    "literal_meaning": "Prematurely ripe",
+    "cultural_meaning": "precocious",
+    "intended_emotion_tone": "Mocking / Sarcastic",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Sarcastic",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "31",
+    "bengali_phrase": "অঙ্গ জল হওয়া",
+    "literal_meaning": "Body turning to water",
+    "cultural_meaning": "Cool",
+    "intended_emotion_tone": "Relieved / Calm",
+    "primary_tone_candidate": "Relieved",
+    "secondary_tone_candidate": "Calm",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "36",
+    "bengali_phrase": "অন্তব্যস্ত",
+    "literal_meaning": "Busy inside",
+    "cultural_meaning": "Very busy",
+    "intended_emotion_tone": "Anxious / Rushed",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Rushed",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "41",
+    "bengali_phrase": "অশ্বমেধ যজ্ঞ",
+    "literal_meaning": "Ashvamedha horse sacrifice",
+    "cultural_meaning": "Huge event",
+    "intended_emotion_tone": "Grand / Overwhelming",
+    "primary_tone_candidate": "Grand",
+    "secondary_tone_candidate": "Overwhelming",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "42",
+    "bengali_phrase": "অকটবিকট",
+    "literal_meaning": "Awkward and hideous",
+    "cultural_meaning": "Chatter",
+    "intended_emotion_tone": "Restless / Uncomfortable",
+    "primary_tone_candidate": "Restless",
+    "secondary_tone_candidate": "Uncomfortable",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "43",
+    "bengali_phrase": "অকড়িয়া",
+    "literal_meaning": "Without a cowrie penny",
+    "cultural_meaning": "Moneyless",
+    "intended_emotion_tone": "Pity / Destitute",
+    "primary_tone_candidate": "Pity",
+    "secondary_tone_candidate": "Destitute",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "49",
+    "bengali_phrase": "অনন্তশয্যা",
+    "literal_meaning": "Eternal bed",
+    "cultural_meaning": "Death bed",
+    "intended_emotion_tone": "Somber / Sorrowful",
+    "primary_tone_candidate": "Somber",
+    "secondary_tone_candidate": "Sorrowful",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "51",
+    "bengali_phrase": "অকর্মার ধাড়ি",
+    "literal_meaning": "The chief of the useless",
+    "cultural_meaning": "Very lazy.",
+    "intended_emotion_tone": "Derogatory / Mocking",
+    "primary_tone_candidate": "Derogatory",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "56",
+    "bengali_phrase": "অষ্টাবক্র",
+    "literal_meaning": "Deformed in eight places like the sage Ashtavakra",
+    "cultural_meaning": "Ugly",
+    "intended_emotion_tone": "Derogatory / Insulting",
+    "primary_tone_candidate": "Derogatory",
+    "secondary_tone_candidate": "Insulting",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "58",
+    "bengali_phrase": "অস্থির পাজক",
+    "literal_meaning": "Restless nature",
+    "cultural_meaning": "Confused",
+    "intended_emotion_tone": "Anxious / Confused",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Confused",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "60",
+    "bengali_phrase": "অনুনয়-বিনয়",
+    "literal_meaning": "Pleading and begging",
+    "cultural_meaning": "Obsecration",
+    "intended_emotion_tone": "Pleading / Humble",
+    "primary_tone_candidate": "Pleading",
+    "secondary_tone_candidate": "Humble",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "63",
+    "bengali_phrase": "অগড়-বগড় / অগড়ম-বগড়ম",
+    "literal_meaning": "Gibberish words",
+    "cultural_meaning": "Meaningless or idle talk / the ravings of a madman",
+    "intended_emotion_tone": "Dismissive / Annoyed",
+    "primary_tone_candidate": "Dismissive",
+    "secondary_tone_candidate": "Annoyed",
+    "review_reasons": [
+      "multi_variant_phrase"
+    ]
+  },
+  {
+    "id": "69",
+    "bengali_phrase": "অগাকাণ্ড / অঘাচণ্ডি / অঘারাম",
+    "literal_meaning": "Foolish incident / foolish person",
+    "cultural_meaning": "Foolish / Stupid",
+    "intended_emotion_tone": "Derogatory / Mocking",
+    "primary_tone_candidate": "Derogatory",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "multi_variant_phrase"
+    ]
+  },
+  {
+    "id": "76",
+    "bengali_phrase": "আকাশ থেকে পড়া",
+    "literal_meaning": "Falling from the sky",
+    "cultural_meaning": "Unexpected",
+    "intended_emotion_tone": "Surprised / Shocked",
+    "primary_tone_candidate": "Surprised",
+    "secondary_tone_candidate": "Shocked",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "78",
+    "bengali_phrase": "আদায় কাঁচকলায়",
+    "literal_meaning": "Ginger and green plantain",
+    "cultural_meaning": "Hostility",
+    "intended_emotion_tone": "Hostile / Bitter",
+    "primary_tone_candidate": "Hostile",
+    "secondary_tone_candidate": "Bitter",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "80",
+    "bengali_phrase": "আদিখ্যেতা",
+    "literal_meaning": "Excessive affection or fuss",
+    "cultural_meaning": "Nasty",
+    "intended_emotion_tone": "Annoyed / Disapproving",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Disapproving",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "81",
+    "bengali_phrase": "আবোল-তাবোল",
+    "literal_meaning": "Nonsense or gibberish",
+    "cultural_meaning": "Nonsense",
+    "intended_emotion_tone": "Dismissive / Irritated",
+    "primary_tone_candidate": "Dismissive",
+    "secondary_tone_candidate": "Irritated",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "82",
+    "bengali_phrase": "আমড়া কাঠের ঢেঁকি",
+    "literal_meaning": "Husking pedal made of hog plum wood",
+    "cultural_meaning": "Useless",
+    "intended_emotion_tone": "Insulting / Derogatory",
+    "primary_tone_candidate": "Insulting",
+    "secondary_tone_candidate": "Derogatory",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "83",
+    "bengali_phrase": "আমতা আমতা করা",
+    "literal_meaning": "Stuttering or stammering",
+    "cultural_meaning": "To hesitate",
+    "intended_emotion_tone": "Hesitant / Unsure",
+    "primary_tone_candidate": "Hesitant",
+    "secondary_tone_candidate": "Unsure",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "85",
+    "bengali_phrase": "আটাশে ছেলে",
+    "literal_meaning": "A boy born in the eighth month",
+    "cultural_meaning": "Weak boy",
+    "intended_emotion_tone": "Pity / Descriptive",
+    "primary_tone_candidate": "Pity",
+    "secondary_tone_candidate": "Descriptive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "86",
+    "bengali_phrase": "আড়ং ঘাটা",
+    "literal_meaning": "Market dock",
+    "cultural_meaning": "Ferry terminal",
+    "intended_emotion_tone": "Neutral",
+    "primary_tone_candidate": "Neutral",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "89",
+    "bengali_phrase": "আলেয়ার আলো",
+    "literal_meaning": "Light of a will-o'-the-wisp",
+    "cultural_meaning": "Rare item",
+    "intended_emotion_tone": "Elusive / Mysterious",
+    "primary_tone_candidate": "Elusive",
+    "secondary_tone_candidate": "Mysterious",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "90",
+    "bengali_phrase": "আঁচল ধরে বেড়ানো",
+    "literal_meaning": "Wandering while holding the hem of a sari",
+    "cultural_meaning": "Impersonal",
+    "intended_emotion_tone": "Dependent / Weak",
+    "primary_tone_candidate": "Dependent",
+    "secondary_tone_candidate": "Weak",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "93",
+    "bengali_phrase": "আজল-পাঁজল",
+    "literal_meaning": "Ribs and bones",
+    "cultural_meaning": "Shaking",
+    "intended_emotion_tone": "Aggressive / Physical",
+    "primary_tone_candidate": "Aggressive",
+    "secondary_tone_candidate": "Physical",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "95",
+    "bengali_phrase": "আদুড়চুলি",
+    "literal_meaning": "Uncovered hair",
+    "cultural_meaning": "Unveiling",
+    "intended_emotion_tone": "Descriptive",
+    "primary_tone_candidate": "Descriptive",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "96",
+    "bengali_phrase": "আপকেওয়াস্তে",
+    "literal_meaning": "For your own sake",
+    "cultural_meaning": "Flatterer",
+    "intended_emotion_tone": "Sycophantic / Mocking",
+    "primary_tone_candidate": "Sycophantic",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "97",
+    "bengali_phrase": "আলুথালু",
+    "literal_meaning": "Disheveled",
+    "cultural_meaning": "Random",
+    "intended_emotion_tone": "Messy / Descriptive",
+    "primary_tone_candidate": "Messy",
+    "secondary_tone_candidate": "Descriptive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "100",
+    "bengali_phrase": "আড়ং ঘাটা",
+    "literal_meaning": "Market dock",
+    "cultural_meaning": "Ferry terminal",
+    "intended_emotion_tone": "Neutral",
+    "primary_tone_candidate": "Neutral",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "113",
+    "bengali_phrase": "আদাড়ের হাঁড়ি",
+    "literal_meaning": "A cooking pot in the garbage/backyard",
+    "cultural_meaning": "An insignificant or neglected person",
+    "intended_emotion_tone": "Disparaging / Derogatory",
+    "primary_tone_candidate": "Disparaging",
+    "secondary_tone_candidate": "Derogatory",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "124",
+    "bengali_phrase": "আজবখানা / আজবঘর",
+    "literal_meaning": "House of wonders",
+    "cultural_meaning": "A museum",
+    "intended_emotion_tone": "Curious / Neutral",
+    "primary_tone_candidate": "Curious",
+    "secondary_tone_candidate": "Neutral",
+    "review_reasons": [
+      "multi_variant_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "126",
+    "bengali_phrase": "আদাড়ের হাঁড়ি",
+    "literal_meaning": "Cooking pot in the garbage",
+    "cultural_meaning": "An insignificant or neglected person",
+    "intended_emotion_tone": "Derogatory / Dismissive",
+    "primary_tone_candidate": "Derogatory",
+    "secondary_tone_candidate": "Dismissive",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "151",
+    "bengali_phrase": "আগন্যাংলা",
+    "literal_meaning": "Front-leaning",
+    "cultural_meaning": "Forward",
+    "intended_emotion_tone": "Neutral",
+    "primary_tone_candidate": "Neutral",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "157",
+    "bengali_phrase": "আটখান করা / আটখানা করা",
+    "literal_meaning": "Making into eight pieces",
+    "cultural_meaning": "To shred",
+    "intended_emotion_tone": "Aggressive / Enthusiastic depending on context",
+    "primary_tone_candidate": "Aggressive",
+    "secondary_tone_candidate": "Enthusiastic depending on context",
+    "review_reasons": [
+      "multi_variant_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "158",
+    "bengali_phrase": "আকেলমন্ত / আক্কেলমন্দ",
+    "literal_meaning": "One possessing wisdom",
+    "cultural_meaning": "Considering",
+    "intended_emotion_tone": "Appreciative / Positive",
+    "primary_tone_candidate": "Appreciative",
+    "secondary_tone_candidate": "Positive",
+    "review_reasons": [
+      "multi_variant_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "160",
+    "bengali_phrase": "ইতর বিশেষ",
+    "literal_meaning": "Base difference",
+    "cultural_meaning": "Difference / Distinction",
+    "intended_emotion_tone": "Neutral",
+    "primary_tone_candidate": "Neutral",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "161",
+    "bengali_phrase": "ঈদের চাঁদ",
+    "literal_meaning": "Moon of Eid",
+    "cultural_meaning": "Most desired item",
+    "intended_emotion_tone": "Joyful / Longing",
+    "primary_tone_candidate": "Joyful",
+    "secondary_tone_candidate": "Longing",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "162",
+    "bengali_phrase": "ইঁদুর কপালে",
+    "literal_meaning": "Rat's forehead",
+    "cultural_meaning": "Very bad luck",
+    "intended_emotion_tone": "Sympathetic / Pitying",
+    "primary_tone_candidate": "Sympathetic",
+    "secondary_tone_candidate": "Pitying",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "163",
+    "bengali_phrase": "ইলশে গুঁড়ি",
+    "literal_meaning": "Hilsa rain dust",
+    "cultural_meaning": "Drizzling rain",
+    "intended_emotion_tone": "Descriptive / Poetic",
+    "primary_tone_candidate": "Descriptive",
+    "secondary_tone_candidate": "Poetic",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "164",
+    "bengali_phrase": "ইতর",
+    "literal_meaning": "Base / Low",
+    "cultural_meaning": "Bad-tempered",
+    "intended_emotion_tone": "Derogatory / Critical",
+    "primary_tone_candidate": "Derogatory",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase",
+      "very_short_phrase"
+    ]
+  },
+  {
+    "id": "165",
+    "bengali_phrase": "ইঁচড়ে পাকা",
+    "literal_meaning": "Ripe in the jackfruit bud",
+    "cultural_meaning": "Premature",
+    "intended_emotion_tone": "Sarcastic / Annoyed",
+    "primary_tone_candidate": "Sarcastic",
+    "secondary_tone_candidate": "Annoyed",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "166",
+    "bengali_phrase": "ইন্দ্রপতন",
+    "literal_meaning": "Fall of Indra King of Gods",
+    "cultural_meaning": "Death of a famous person",
+    "intended_emotion_tone": "Mournful / Respectful",
+    "primary_tone_candidate": "Mournful",
+    "secondary_tone_candidate": "Respectful",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "167",
+    "bengali_phrase": "ইষ্টনাম জপা",
+    "literal_meaning": "Chanting the desired/holy name",
+    "cultural_meaning": "Remembering the Creator",
+    "intended_emotion_tone": "Spiritual / Reverent",
+    "primary_tone_candidate": "Spiritual",
+    "secondary_tone_candidate": "Reverent",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "168",
+    "bengali_phrase": "ইতুনিদকুঁড়ে",
+    "literal_meaning": "Extremely lazy person",
+    "cultural_meaning": "Lazy",
+    "intended_emotion_tone": "Mocking / Critical",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "169",
+    "bengali_phrase": "ইনিয়ে বিনিয়ে",
+    "literal_meaning": "Weaving and winding",
+    "cultural_meaning": "Lazy",
+    "intended_emotion_tone": "Annoyed / Frustrated",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Frustrated",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "170",
+    "bengali_phrase": "ইয়ারবকসি",
+    "literal_meaning": "Friends and peers",
+    "cultural_meaning": "Friends/Jokes",
+    "intended_emotion_tone": "Casual / Friendly",
+    "primary_tone_candidate": "Casual",
+    "secondary_tone_candidate": "Friendly",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "171",
+    "bengali_phrase": "ইশপিশ করা",
+    "literal_meaning": "To be restless",
+    "cultural_meaning": "To be restless or fidgety",
+    "intended_emotion_tone": "Anxious / Impatient",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Impatient",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "172",
+    "bengali_phrase": "ইকড়ি-মিকড়ি",
+    "literal_meaning": "Eekri-Meekri rhyme sounds",
+    "cultural_meaning": "Children's games",
+    "intended_emotion_tone": "Playful / Nostalgic",
+    "primary_tone_candidate": "Playful",
+    "secondary_tone_candidate": "Nostalgic",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "176",
+    "bengali_phrase": "ইল্লতে কাণ্ড",
+    "literal_meaning": "Filthy incident",
+    "cultural_meaning": "Dirty matter / dirty deed",
+    "intended_emotion_tone": "Disgusted / Critical",
+    "primary_tone_candidate": "Disgusted",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "177",
+    "bengali_phrase": "ইতস্তত করা",
+    "literal_meaning": "To do here and there",
+    "cultural_meaning": "To hesitate",
+    "intended_emotion_tone": "Hesitant / Reluctant",
+    "primary_tone_candidate": "Hesitant",
+    "secondary_tone_candidate": "Reluctant",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "178",
+    "bengali_phrase": "ইন্দ্রের শচী",
+    "literal_meaning": "Indra's Sachi wife of Indra",
+    "cultural_meaning": "When someone is near, he is his",
+    "intended_emotion_tone": "Mocking / Sarcastic",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Sarcastic",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "179",
+    "bengali_phrase": "ইতর বিশেষ",
+    "literal_meaning": "Base difference",
+    "cultural_meaning": "Difference / Distinction",
+    "intended_emotion_tone": "Neutral / Analytical",
+    "primary_tone_candidate": "Neutral",
+    "secondary_tone_candidate": "Analytical",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "180",
+    "bengali_phrase": "ঈদের চাঁদ",
+    "literal_meaning": "Moon of Eid",
+    "cultural_meaning": "Most desired item",
+    "intended_emotion_tone": "Joyful / Longing",
+    "primary_tone_candidate": "Joyful",
+    "secondary_tone_candidate": "Longing",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "181",
+    "bengali_phrase": "ইঁদুর কপালে",
+    "literal_meaning": "Rat's forehead",
+    "cultural_meaning": "Very bad luck",
+    "intended_emotion_tone": "Sympathetic / Pitying",
+    "primary_tone_candidate": "Sympathetic",
+    "secondary_tone_candidate": "Pitying",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "182",
+    "bengali_phrase": "ইলশে গুঁড়ি",
+    "literal_meaning": "Hilsa dust rain",
+    "cultural_meaning": "Drizzling rain",
+    "intended_emotion_tone": "Descriptive / Neutral",
+    "primary_tone_candidate": "Descriptive",
+    "secondary_tone_candidate": "Neutral",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "183",
+    "bengali_phrase": "ইতর",
+    "literal_meaning": "Inferior / Base",
+    "cultural_meaning": "Bad-tempered",
+    "intended_emotion_tone": "Negative / Disapproving",
+    "primary_tone_candidate": "Negative",
+    "secondary_tone_candidate": "Disapproving",
+    "review_reasons": [
+      "duplicate_phrase",
+      "very_short_phrase"
+    ]
+  },
+  {
+    "id": "184",
+    "bengali_phrase": "ইঁচড়ে পাকা",
+    "literal_meaning": "Ripe in the jackfruit bud",
+    "cultural_meaning": "precocious",
+    "intended_emotion_tone": "Annoyed / Mocking",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "185",
+    "bengali_phrase": "ইন্দ্রপতন",
+    "literal_meaning": "Fall of Indra",
+    "cultural_meaning": "Death of a famous person",
+    "intended_emotion_tone": "Somber / Respectful",
+    "primary_tone_candidate": "Somber",
+    "secondary_tone_candidate": "Respectful",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "186",
+    "bengali_phrase": "ইষ্টনাম জপা",
+    "literal_meaning": "Chanting the beloved name",
+    "cultural_meaning": "Remembering the Lord",
+    "intended_emotion_tone": "Devotional / Spiritual",
+    "primary_tone_candidate": "Devotional",
+    "secondary_tone_candidate": "Spiritual",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "187",
+    "bengali_phrase": "ইতুনিদকুঁড়ে",
+    "literal_meaning": "Idle like Itu",
+    "cultural_meaning": "Lazy",
+    "intended_emotion_tone": "Critical / Mocking",
+    "primary_tone_candidate": "Critical",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "188",
+    "bengali_phrase": "ইনিয়ে বিনিয়ে",
+    "literal_meaning": "Winding and twisting",
+    "cultural_meaning": "Turn around",
+    "intended_emotion_tone": "Annoyed / Critical",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "189",
+    "bengali_phrase": "ইশপিশ করা",
+    "literal_meaning": "To feel fidgety",
+    "cultural_meaning": "To be restless or fidgety",
+    "intended_emotion_tone": "Anxious / Eager",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Eager",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "190",
+    "bengali_phrase": "ইকড়ি-মিকড়ি",
+    "literal_meaning": "Ikri-mikri",
+    "cultural_meaning": "Children's games",
+    "intended_emotion_tone": "Playful / Lighthearted",
+    "primary_tone_candidate": "Playful",
+    "secondary_tone_candidate": "Lighthearted",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "191",
+    "bengali_phrase": "ইয়ারবকসি",
+    "literal_meaning": "Friends and associates",
+    "cultural_meaning": "Friends/Funny guy",
+    "intended_emotion_tone": "Casual / Friendly",
+    "primary_tone_candidate": "Casual",
+    "secondary_tone_candidate": "Friendly",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "192",
+    "bengali_phrase": "ইল্লতে কাণ্ড",
+    "literal_meaning": "Filthy incident",
+    "cultural_meaning": "Dirty affair / dirty deed",
+    "intended_emotion_tone": "Disgusted / Critical",
+    "primary_tone_candidate": "Disgusted",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "193",
+    "bengali_phrase": "ইতস্তত করা",
+    "literal_meaning": "To do here and there",
+    "cultural_meaning": "To hesitate",
+    "intended_emotion_tone": "Hesitant / Reluctant",
+    "primary_tone_candidate": "Hesitant",
+    "secondary_tone_candidate": "Reluctant",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "194",
+    "bengali_phrase": "ইন্দ্রের শচী",
+    "literal_meaning": "Indra's Sachi",
+    "cultural_meaning": "When someone is near, he is his",
+    "intended_emotion_tone": "Mocking / Sarcastic",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Sarcastic",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "197",
+    "bengali_phrase": "উড়ো কথা",
+    "literal_meaning": "Flying words",
+    "cultural_meaning": "Rumor",
+    "intended_emotion_tone": "Cautious / Dismissive",
+    "primary_tone_candidate": "Cautious",
+    "secondary_tone_candidate": "Dismissive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "199",
+    "bengali_phrase": "উড়নচণ্ডী",
+    "literal_meaning": "Flying Chandi Goddess",
+    "cultural_meaning": "Extravagant",
+    "intended_emotion_tone": "Critical / Disapproving",
+    "primary_tone_candidate": "Critical",
+    "secondary_tone_candidate": "Disapproving",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "202",
+    "bengali_phrase": "শাখের করাত",
+    "literal_meaning": "Crisis on both sides",
+    "cultural_meaning": "Both crises",
+    "intended_emotion_tone": "Anxious / Conflicted",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Conflicted",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "205",
+    "bengali_phrase": "উকর-ধাকর",
+    "literal_meaning": "Rough and tumble",
+    "cultural_meaning": "Randomly",
+    "intended_emotion_tone": "Chaotic / Disorganized",
+    "primary_tone_candidate": "Chaotic",
+    "secondary_tone_candidate": "Disorganized",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "206",
+    "bengali_phrase": "উজলপাজল",
+    "literal_meaning": "Restless tossing",
+    "cultural_meaning": "Up and down",
+    "intended_emotion_tone": "Agitated / Restless",
+    "primary_tone_candidate": "Agitated",
+    "secondary_tone_candidate": "Restless",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "207",
+    "bengali_phrase": "উপোসি ছারপোকা",
+    "literal_meaning": "Starving bedbug",
+    "cultural_meaning": "Poor person",
+    "intended_emotion_tone": "Pitying / Mocking",
+    "primary_tone_candidate": "Pitying",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "208",
+    "bengali_phrase": "উটকো লোক",
+    "literal_meaning": "Sudden or out-of-nowhere person",
+    "cultural_meaning": "Stranger",
+    "intended_emotion_tone": "Suspicious / Cautious",
+    "primary_tone_candidate": "Suspicious",
+    "secondary_tone_candidate": "Cautious",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "209",
+    "bengali_phrase": "উড়নপেকে",
+    "literal_meaning": "Flying spendthrift",
+    "cultural_meaning": "Wasteful",
+    "intended_emotion_tone": "Disapproving / Critical",
+    "primary_tone_candidate": "Disapproving",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "210",
+    "bengali_phrase": "উসখুস করা",
+    "literal_meaning": "To fidget",
+    "cultural_meaning": "To squirm",
+    "intended_emotion_tone": "Anxious / Impatient",
+    "primary_tone_candidate": "Anxious",
+    "secondary_tone_candidate": "Impatient",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "211",
+    "bengali_phrase": "উঁচু কপালে",
+    "literal_meaning": "High forehead",
+    "cultural_meaning": "Lucky",
+    "intended_emotion_tone": "Appreciative / Admiring",
+    "primary_tone_candidate": "Appreciative",
+    "secondary_tone_candidate": "Admiring",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "213",
+    "bengali_phrase": "উদোগেঁড়ে",
+    "literal_meaning": "Pot-bellied idler",
+    "cultural_meaning": "Lazy",
+    "intended_emotion_tone": "Mocking / Disapproving",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Disapproving",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "215",
+    "bengali_phrase": "উপুরহস্ত করা",
+    "literal_meaning": "To place hand downwards",
+    "cultural_meaning": "Donate",
+    "intended_emotion_tone": "Generous / Benevolent",
+    "primary_tone_candidate": "Generous",
+    "secondary_tone_candidate": "Benevolent",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "217",
+    "bengali_phrase": "উস্তন খুস্তন করা",
+    "literal_meaning": "To annoy or pester",
+    "cultural_meaning": "To tease",
+    "intended_emotion_tone": "Annoyed / Irritated",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Irritated",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "220",
+    "bengali_phrase": "ঊর্মিমালী",
+    "literal_meaning": "Garlanded with waves",
+    "cultural_meaning": "Sea",
+    "intended_emotion_tone": "Poetic / Descriptive",
+    "primary_tone_candidate": "Poetic",
+    "secondary_tone_candidate": "Descriptive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "223",
+    "bengali_phrase": "উর্জস্থল",
+    "literal_meaning": "Place of energy",
+    "cultural_meaning": "Strong",
+    "intended_emotion_tone": "Strong / Powerful",
+    "primary_tone_candidate": "Strong",
+    "secondary_tone_candidate": "Powerful",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "226",
+    "bengali_phrase": "ঊনপঞ্চাশ বায়ু",
+    "literal_meaning": "Forty-nine winds",
+    "cultural_meaning": "Madness",
+    "intended_emotion_tone": "Mocking / Clinical",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Clinical",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "227",
+    "bengali_phrase": "ঊরা",
+    "literal_meaning": "To arise or fly",
+    "cultural_meaning": "To appear",
+    "intended_emotion_tone": "Neutral",
+    "primary_tone_candidate": "Neutral",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "very_short_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "229",
+    "bengali_phrase": "ঊর্ধ্বনেত্র",
+    "literal_meaning": "Upward eyes",
+    "cultural_meaning": "Bored look",
+    "intended_emotion_tone": "Detached / Aloof",
+    "primary_tone_candidate": "Detached",
+    "secondary_tone_candidate": "Aloof",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "230",
+    "bengali_phrase": "ঊর্ধ্বচারী",
+    "literal_meaning": "One who moves high above",
+    "cultural_meaning": "Ambitious",
+    "intended_emotion_tone": "Admiring / Aspirant",
+    "primary_tone_candidate": "Admiring",
+    "secondary_tone_candidate": "Aspirant",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "231",
+    "bengali_phrase": "ঊর্ধ্ববাহ",
+    "literal_meaning": "Upward arms",
+    "cultural_meaning": "Hands up",
+    "intended_emotion_tone": "Descriptive / Surrendered",
+    "primary_tone_candidate": "Descriptive",
+    "secondary_tone_candidate": "Surrendered",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "233",
+    "bengali_phrase": "ঊর্ধ্বলোক",
+    "literal_meaning": "Upper realm",
+    "cultural_meaning": "Heaven",
+    "intended_emotion_tone": "Spiritual / Reverent",
+    "primary_tone_candidate": "Spiritual",
+    "secondary_tone_candidate": "Reverent",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "234",
+    "bengali_phrase": "এলেবেলে",
+    "literal_meaning": "Ordinary or trifling",
+    "cultural_meaning": "Inferior",
+    "intended_emotion_tone": "Dismissive / Derogatory",
+    "primary_tone_candidate": "Dismissive",
+    "secondary_tone_candidate": "Derogatory",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "236",
+    "bengali_phrase": "এক ডাকের পথ",
+    "literal_meaning": "A path of one call calling distance",
+    "cultural_meaning": "Nearby",
+    "intended_emotion_tone": "Casual / Helpful",
+    "primary_tone_candidate": "Casual",
+    "secondary_tone_candidate": "Helpful",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "237",
+    "bengali_phrase": "এক হাত লওয়া",
+    "literal_meaning": "To take one hand",
+    "cultural_meaning": "Revenge",
+    "intended_emotion_tone": "Threatening / Vengeful",
+    "primary_tone_candidate": "Threatening",
+    "secondary_tone_candidate": "Vengeful",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "239",
+    "bengali_phrase": "একা দোকা",
+    "literal_meaning": "Alone and isolated",
+    "cultural_meaning": "Lonely",
+    "intended_emotion_tone": "Melancholic / Sympathetic",
+    "primary_tone_candidate": "Melancholic",
+    "secondary_tone_candidate": "Sympathetic",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "240",
+    "bengali_phrase": "এলকুমি-বেলকুমি",
+    "literal_meaning": "Nonsense gestures",
+    "cultural_meaning": "Gestures",
+    "intended_emotion_tone": "Playful / Mocking",
+    "primary_tone_candidate": "Playful",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "241",
+    "bengali_phrase": "এলাহি কাণ্ড",
+    "literal_meaning": "Divine incident / Grand affair",
+    "cultural_meaning": "Big event",
+    "intended_emotion_tone": "Awestruck / Impressed",
+    "primary_tone_candidate": "Awestruck",
+    "secondary_tone_candidate": "Impressed",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "246",
+    "bengali_phrase": "এককে একুশ করা",
+    "literal_meaning": "Making one into twenty-one",
+    "cultural_meaning": "Unnecessary increase",
+    "intended_emotion_tone": "Annoyed / Critical",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "247",
+    "bengali_phrase": "এক লহমায়",
+    "literal_meaning": "In one moment",
+    "cultural_meaning": "In a moment",
+    "intended_emotion_tone": "Urgent / Swift",
+    "primary_tone_candidate": "Urgent",
+    "secondary_tone_candidate": "Swift",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "248",
+    "bengali_phrase": "এককে একুশ করা",
+    "literal_meaning": "Making one into twenty-one",
+    "cultural_meaning": "Unnecessary increase",
+    "intended_emotion_tone": "Annoyed / Critical",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "249",
+    "bengali_phrase": "এক ছাঁচে ঢালা",
+    "literal_meaning": "Cast in the same mold",
+    "cultural_meaning": "Similarity",
+    "intended_emotion_tone": "Observational / Neutral",
+    "primary_tone_candidate": "Observational",
+    "secondary_tone_candidate": "Neutral",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "251",
+    "bengali_phrase": "এসপার ওসপার",
+    "literal_meaning": "This side or that side",
+    "cultural_meaning": "Settlement",
+    "intended_emotion_tone": "Decisive / Resolute",
+    "primary_tone_candidate": "Decisive",
+    "secondary_tone_candidate": "Resolute",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "252",
+    "bengali_phrase": "একা ঘরে গিন্নি",
+    "literal_meaning": "Housewife in a lonely room",
+    "cultural_meaning": "Authority",
+    "intended_emotion_tone": "Dominant / Bossy",
+    "primary_tone_candidate": "Dominant",
+    "secondary_tone_candidate": "Bossy",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "254",
+    "bengali_phrase": "এলাকাঁড়ি",
+    "literal_meaning": "Looking elsewhere / Distracted",
+    "cultural_meaning": "Inattention",
+    "intended_emotion_tone": "Inattentive / Ignorant",
+    "primary_tone_candidate": "Inattentive",
+    "secondary_tone_candidate": "Ignorant",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "257",
+    "bengali_phrase": "এলোপাতাড়ি/এলোপাথাড়ি/এলোধাবাড়ি",
+    "literal_meaning": "Haphazardly",
+    "cultural_meaning": "To make a mess",
+    "intended_emotion_tone": "Chaotic / Disorganized",
+    "primary_tone_candidate": "Chaotic",
+    "secondary_tone_candidate": "Disorganized",
+    "review_reasons": [
+      "multi_variant_phrase"
+    ]
+  },
+  {
+    "id": "260",
+    "bengali_phrase": "ওষুধ পড়া",
+    "literal_meaning": "Medicine taking effect",
+    "cultural_meaning": "Impact",
+    "intended_emotion_tone": "Manipulative / Persuasive",
+    "primary_tone_candidate": "Manipulative",
+    "secondary_tone_candidate": "Persuasive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "261",
+    "bengali_phrase": "ওলা-ওঠা প্রতি ঘরে",
+    "literal_meaning": "Cholera in every house",
+    "cultural_meaning": "Epidemic",
+    "intended_emotion_tone": "Dreadful / Tragic",
+    "primary_tone_candidate": "Dreadful",
+    "secondary_tone_candidate": "Tragic",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "264",
+    "bengali_phrase": "ওষুধ করা",
+    "literal_meaning": "To apply medicine / black magic",
+    "cultural_meaning": "Subdue",
+    "intended_emotion_tone": "Manipulative / Controlling",
+    "primary_tone_candidate": "Manipulative",
+    "secondary_tone_candidate": "Controlling",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "268",
+    "bengali_phrase": "কাঁচা হাত",
+    "literal_meaning": "Unripe hand",
+    "cultural_meaning": "Immature",
+    "intended_emotion_tone": "Inexperienced / Novice",
+    "primary_tone_candidate": "Inexperienced",
+    "secondary_tone_candidate": "Novice",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "269",
+    "bengali_phrase": "কাগুজে বাঘ",
+    "literal_meaning": "Paper tiger",
+    "cultural_meaning": "Fake poker",
+    "intended_emotion_tone": "Mocking / Dismissive",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Dismissive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "270",
+    "bengali_phrase": "কলির সন্ধ্যা",
+    "literal_meaning": "Evening of Kali Yuga",
+    "cultural_meaning": "The onset of bad times",
+    "intended_emotion_tone": "Ominous / Pessimistic",
+    "primary_tone_candidate": "Ominous",
+    "secondary_tone_candidate": "Pessimistic",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "271",
+    "bengali_phrase": "কাঁচা পয়সা",
+    "literal_meaning": "Unripe money / Raw cash",
+    "cultural_meaning": "Earn cash",
+    "intended_emotion_tone": "Prosperous / Excited",
+    "primary_tone_candidate": "Prosperous",
+    "secondary_tone_candidate": "Excited",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "273",
+    "bengali_phrase": "কল্কে পাওয়া",
+    "literal_meaning": "To get the hookah bowl",
+    "cultural_meaning": "To care",
+    "intended_emotion_tone": "Validated / Accepted",
+    "primary_tone_candidate": "Validated",
+    "secondary_tone_candidate": "Accepted",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "274",
+    "bengali_phrase": "কাঠের পুতুল",
+    "literal_meaning": "Wooden puppet",
+    "cultural_meaning": "Inanimate",
+    "intended_emotion_tone": "Passive / Insulting",
+    "primary_tone_candidate": "Passive",
+    "secondary_tone_candidate": "Insulting",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "275",
+    "bengali_phrase": "করাতের দাঁত",
+    "literal_meaning": "Teeth of a saw",
+    "cultural_meaning": "Both crises",
+    "intended_emotion_tone": "Conflicted / Trapped",
+    "primary_tone_candidate": "Conflicted",
+    "secondary_tone_candidate": "Trapped",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "278",
+    "bengali_phrase": "কাছা ঢিলা",
+    "literal_meaning": "Loose tuck of the dhoti",
+    "cultural_meaning": "Careless",
+    "intended_emotion_tone": "Critical / Careless",
+    "primary_tone_candidate": "Critical",
+    "secondary_tone_candidate": "Careless",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "279",
+    "bengali_phrase": "কেতাদুরস্ত",
+    "literal_meaning": "Correct in etiquette",
+    "cultural_meaning": "Tidy",
+    "intended_emotion_tone": "Appreciative / Formal",
+    "primary_tone_candidate": "Appreciative",
+    "secondary_tone_candidate": "Formal",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "284",
+    "bengali_phrase": "কত ধানে কত চাল",
+    "literal_meaning": "How much rice from how much paddy",
+    "cultural_meaning": "To sense",
+    "intended_emotion_tone": "Threatening / Teaching a lesson",
+    "primary_tone_candidate": "Threatening",
+    "secondary_tone_candidate": "Teaching a lesson",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "285",
+    "bengali_phrase": "কথা দেয়া",
+    "literal_meaning": "Giving one's word",
+    "cultural_meaning": "To promise",
+    "intended_emotion_tone": "Serious / Committed",
+    "primary_tone_candidate": "Serious",
+    "secondary_tone_candidate": "Committed",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "286",
+    "bengali_phrase": "কথা চালা",
+    "literal_meaning": "To pass words around",
+    "cultural_meaning": "To rant",
+    "intended_emotion_tone": "Gossiping / Negative",
+    "primary_tone_candidate": "Gossiping",
+    "secondary_tone_candidate": "Negative",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "287",
+    "bengali_phrase": "কাক নিদ্রা",
+    "literal_meaning": "Crow's sleep",
+    "cultural_meaning": "Light sleep",
+    "intended_emotion_tone": "Watchful / Alert",
+    "primary_tone_candidate": "Watchful",
+    "secondary_tone_candidate": "Alert",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "289",
+    "bengali_phrase": "কেঁচো গণ্ডূষ",
+    "literal_meaning": "Earthworm's mouthful starting from scratch",
+    "cultural_meaning": "Start over",
+    "intended_emotion_tone": "Resigned / Encouraging",
+    "primary_tone_candidate": "Resigned",
+    "secondary_tone_candidate": "Encouraging",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "293",
+    "bengali_phrase": "কাটাকাটি করা",
+    "literal_meaning": "Cutting each other",
+    "cultural_meaning": "To protest",
+    "intended_emotion_tone": "Argumentative / Hostile",
+    "primary_tone_candidate": "Argumentative",
+    "secondary_tone_candidate": "Hostile",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "294",
+    "bengali_phrase": "কানে তুলো দেয়া",
+    "literal_meaning": "Putting cotton in ears",
+    "cultural_meaning": "Don't stare",
+    "intended_emotion_tone": "Stubborn / Ignoring",
+    "primary_tone_candidate": "Stubborn",
+    "secondary_tone_candidate": "Ignoring",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "295",
+    "bengali_phrase": "কান কাটা",
+    "literal_meaning": "Cut ear",
+    "cultural_meaning": "Perky",
+    "intended_emotion_tone": "Shameless / Insulting",
+    "primary_tone_candidate": "Shameless",
+    "secondary_tone_candidate": "Insulting",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "299",
+    "bengali_phrase": "কচ্ছপের কামড়",
+    "literal_meaning": "Turtle's bite",
+    "cultural_meaning": "Persistent",
+    "intended_emotion_tone": "Stubborn / Persistent",
+    "primary_tone_candidate": "Stubborn",
+    "secondary_tone_candidate": "Persistent",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "301",
+    "bengali_phrase": "কড়ায় গণ্ডায়",
+    "literal_meaning": "In cowries and gandas old currency units",
+    "cultural_meaning": "Completely",
+    "intended_emotion_tone": "Exact / Precise",
+    "primary_tone_candidate": "Exact",
+    "secondary_tone_candidate": "Precise",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "302",
+    "bengali_phrase": "কোলে পিঠে মানুষ করা",
+    "literal_meaning": "To raise on the lap and back",
+    "cultural_meaning": "Nurture",
+    "intended_emotion_tone": "Affectionate / Caring",
+    "primary_tone_candidate": "Affectionate",
+    "secondary_tone_candidate": "Caring",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "304",
+    "bengali_phrase": "কুম্ভকর্ণের ঘুম / নিদ্রা",
+    "literal_meaning": "Sleep of Kumbhakarna",
+    "cultural_meaning": "Long-term laziness",
+    "intended_emotion_tone": "Critical / Humorous",
+    "primary_tone_candidate": "Critical",
+    "secondary_tone_candidate": "Humorous",
+    "review_reasons": [
+      "multi_variant_phrase"
+    ]
+  },
+  {
+    "id": "305",
+    "bengali_phrase": "কলা দেখানো",
+    "literal_meaning": "To show a banana",
+    "cultural_meaning": "Evasion",
+    "intended_emotion_tone": "Deceptive / Mocking",
+    "primary_tone_candidate": "Deceptive",
+    "secondary_tone_candidate": "Mocking",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "312",
+    "bengali_phrase": "কতশত",
+    "literal_meaning": "How many hundreds",
+    "cultural_meaning": "Numerous",
+    "intended_emotion_tone": "Exaggerated / Overwhelmed",
+    "primary_tone_candidate": "Exaggerated",
+    "secondary_tone_candidate": "Overwhelmed",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "314",
+    "bengali_phrase": "কথার ফুলঝুরি",
+    "literal_meaning": "Sparkler of words",
+    "cultural_meaning": "Eloquence",
+    "intended_emotion_tone": "Admiring / Amused",
+    "primary_tone_candidate": "Admiring",
+    "secondary_tone_candidate": "Amused",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "315",
+    "bengali_phrase": "কানি খাওয়া",
+    "literal_meaning": "Eating the rag/edge",
+    "cultural_meaning": "Bias",
+    "intended_emotion_tone": "Unfair / Critical",
+    "primary_tone_candidate": "Unfair",
+    "secondary_tone_candidate": "Critical",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "316",
+    "bengali_phrase": "কচু পোড়া",
+    "literal_meaning": "Burnt taro",
+    "cultural_meaning": "Inedible",
+    "intended_emotion_tone": "Disgusted / Dismissive",
+    "primary_tone_candidate": "Disgusted",
+    "secondary_tone_candidate": "Dismissive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "318",
+    "bengali_phrase": "কড়ি কপালে",
+    "literal_meaning": "Cowries on the forehead",
+    "cultural_meaning": "Lucky",
+    "intended_emotion_tone": "Appreciative / Fortunate",
+    "primary_tone_candidate": "Appreciative",
+    "secondary_tone_candidate": "Fortunate",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "323",
+    "bengali_phrase": "কটু কাটব্য",
+    "literal_meaning": "Bitter cutting remarks",
+    "cultural_meaning": "Reprimand",
+    "intended_emotion_tone": "Harsh / Offensive",
+    "primary_tone_candidate": "Harsh",
+    "secondary_tone_candidate": "Offensive",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "324",
+    "bengali_phrase": "কপোল-কল্পনা",
+    "literal_meaning": "Cheek imagination Baseless imagination",
+    "cultural_meaning": "Fiction",
+    "intended_emotion_tone": "Dismissive / Incredulous",
+    "primary_tone_candidate": "Dismissive",
+    "secondary_tone_candidate": "Incredulous",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "325",
+    "bengali_phrase": "কাজের থই",
+    "literal_meaning": "Bottom/Depth of work",
+    "cultural_meaning": "Work limits",
+    "intended_emotion_tone": "Overwhelmed / Frustrated",
+    "primary_tone_candidate": "Overwhelmed",
+    "secondary_tone_candidate": "Frustrated",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "326",
+    "bengali_phrase": "কলির সন্ধ্যা",
+    "literal_meaning": "Evening of Kali Yuga",
+    "cultural_meaning": "The beginning of bad times",
+    "intended_emotion_tone": "Ominous / Foreboding",
+    "primary_tone_candidate": "Ominous",
+    "secondary_tone_candidate": "Foreboding",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "330",
+    "bengali_phrase": "কায়দা হওয়া",
+    "literal_meaning": "To become a trick/tactic",
+    "cultural_meaning": "To submit",
+    "intended_emotion_tone": "Subdued / Controlled",
+    "primary_tone_candidate": "Subdued",
+    "secondary_tone_candidate": "Controlled",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "338",
+    "bengali_phrase": "কাঁজি ভক্ষণ নামে গোয়ালা",
+    "literal_meaning": "A milkman by name who eats fermented rice water",
+    "cultural_meaning": "Unfortunate",
+    "intended_emotion_tone": "Ironic / Pathetic",
+    "primary_tone_candidate": "Ironic",
+    "secondary_tone_candidate": "Pathetic",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "339",
+    "bengali_phrase": "কিপটের জাসু",
+    "literal_meaning": "Spy of a miser",
+    "cultural_meaning": "Very stingy",
+    "intended_emotion_tone": "Mocking / Disapproving",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Disapproving",
+    "review_reasons": [
+      "duplicate_phrase",
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "344",
+    "bengali_phrase": "কুঁচো বাসন",
+    "literal_meaning": "Tiny utensils",
+    "cultural_meaning": "Small plate",
+    "intended_emotion_tone": "Insignificant / Trivial",
+    "primary_tone_candidate": "Insignificant",
+    "secondary_tone_candidate": "Trivial",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "345",
+    "bengali_phrase": "কুমড়ো কাটা বটঠাকুর",
+    "literal_meaning": "The brother-in-law who cuts pumpkins",
+    "cultural_meaning": "Idle person",
+    "intended_emotion_tone": "Mocking / Useless",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Useless",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "350",
+    "bengali_phrase": "কেউ কেটা",
+    "literal_meaning": "Someone who is somebody",
+    "cultural_meaning": "Petty",
+    "intended_emotion_tone": "Dismissive / Trivial",
+    "primary_tone_candidate": "Dismissive",
+    "secondary_tone_candidate": "Trivial",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "369",
+    "bengali_phrase": "কালামুখো",
+    "literal_meaning": "Black-faced",
+    "cultural_meaning": "Shameless",
+    "intended_emotion_tone": "Insulting / Angry",
+    "primary_tone_candidate": "Insulting",
+    "secondary_tone_candidate": "Angry",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  },
+  {
+    "id": "370",
+    "bengali_phrase": "কিপটের জাসু",
+    "literal_meaning": "Spy of a miser",
+    "cultural_meaning": "An extremely stingy person",
+    "intended_emotion_tone": "Mocking / Disdainful",
+    "primary_tone_candidate": "Mocking",
+    "secondary_tone_candidate": "Disdainful",
+    "review_reasons": [
+      "duplicate_phrase"
+    ]
+  },
+  {
+    "id": "386",
+    "bengali_phrase": "কচকচি/কচকচানি",
+    "literal_meaning": "Crunching noise",
+    "cultural_meaning": "Bickering or arguing",
+    "intended_emotion_tone": "Annoyed",
+    "primary_tone_candidate": "Annoyed",
+    "secondary_tone_candidate": "",
+    "review_reasons": [
+      "multi_variant_phrase"
+    ]
+  },
+  {
+    "id": "394",
+    "bengali_phrase": "খন্ড কপাল",
+    "literal_meaning": "Broken forehead",
+    "cultural_meaning": "Bad luck",
+    "intended_emotion_tone": "Sad / Pitying",
+    "primary_tone_candidate": "Sad",
+    "secondary_tone_candidate": "Pitying",
+    "review_reasons": [
+      "short_cultural_meaning"
+    ]
+  }
+]

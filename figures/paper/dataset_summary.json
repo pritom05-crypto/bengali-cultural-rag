@@ -1,0 +1,23 @@
+{
+  "dataset_path": "E:\\bengali-cultural-rag\\data\\processed\\final_cultural_dataset.json",
+  "record_count": 408,
+  "fields": [
+    "bengali_phrase",
+    "created_at",
+    "cultural_meaning",
+    "expression_type",
+    "id",
+    "intended_emotion_tone",
+    "literal_meaning",
+    "primary_tone",
+    "raw_tones",
+    "review_status",
+    "secondary_tone",
+    "source_note",
+    "source_record_ids",
+    "status",
+    "variants",
+    "verified_meaning_source"
+  ],
+  "total_variant_entries": 8
+}

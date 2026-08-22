@@ -1,0 +1,170 @@
+{
+  "dataset_records": 408,
+  "verified_records": 383,
+  "intent_groups": 19,
+  "benchmark_records": 15,
+  "api_used": false,
+  "gold_source": "actual_verified_dataset_record",
+  "gold_selection": "strict_positive_and_negative_meaning_match",
+  "diagnostics": [
+    {
+      "group": "lazy",
+      "query": "সে খুব অলস এবং কোনো কাজ করতে চায় না।",
+      "status": "SELECTED",
+      "gold_phrase": "অকর্মার ধাড়ি",
+      "meaning": "Very lazy.",
+      "positive_evidence_count": 2,
+      "candidate_count": 4
+    },
+    {
+      "group": "angry",
+      "query": "সে খুব রেগে গেছে এবং প্রচণ্ড রাগান্বিত।",
+      "status": "SELECTED",
+      "gold_phrase": "অগ্নিশর্মা",
+      "meaning": "Extremely angry/furious",
+      "positive_evidence_count": 4,
+      "candidate_count": 2
+    },
+    {
+      "group": "danger",
+      "query": "সে এমন বিপদে পড়েছে যেখান থেকে বের হওয়ার পথ পাচ্ছে না।",
+      "status": "SELECTED",
+      "gold_phrase": "অকূল পাথার",
+      "meaning": "Great danger",
+      "positive_evidence_count": 2,
+      "candidate_count": 7
+    },
+    {
+      "group": "fear",
+      "query": "ঘটনাটি দেখে সে খুব ভয় পেয়ে গেছে।",
+      "status": "NO_SAFE_GOLD",
+      "candidate_count": 0
+    },
+    {
+      "group": "confused",
+      "query": "সে কী করবে বুঝতে পারছে না এবং খুব বিভ্রান্ত হয়ে গেছে।",
+      "status": "SELECTED",
+      "gold_phrase": "অন্ধকার দেখা",
+      "meaning": "Confused",
+      "positive_evidence_count": 1,
+      "candidate_count": 3
+    },
+    {
+      "group": "surprised",
+      "query": "ঘটনাটি দেখে সে খুব অবাক ও বিস্মিত হয়ে গেছে।",
+      "status": "SELECTED",
+      "gold_phrase": "অকালের বাদলা",
+      "meaning": "Unexpected obstacles",
+      "positive_evidence_count": 1,
+      "candidate_count": 3
+    },
+    {
+      "group": "pain",
+      "query": "ঘটনাটি তাকে খুব কষ্ট দিয়েছে।",
+      "status": "SELECTED",
+      "gold_phrase": "অগ্নিবান",
+      "meaning": "Sharp and painful",
+      "positive_evidence_count": 1,
+      "candidate_count": 3
+    },
+    {
+      "group": "success",
+      "query": "শেষ পর্যন্ত সে সফল হয়েছে এবং লক্ষ্য অর্জন করেছে।",
+      "status": "SELECTED",
+      "gold_phrase": "কেল্লা ফতে",
+      "meaning": "To win or achieve success",
+      "positive_evidence_count": 3,
+      "candidate_count": 1
+    },
+    {
+      "group": "failure",
+      "query": "অনেক চেষ্টা করেও শেষ পর্যন্ত তার কাজটি ব্যর্থ হয়েছে।",
+      "status": "NO_SAFE_GOLD",
+      "candidate_count": 0
+    },
+    {
+      "group": "procrastination",
+      "query": "সে কাজটি বারবার পিছিয়ে দিচ্ছে এবং সময় নষ্ট করছে।",
+      "status": "SELECTED",
+      "gold_phrase": "আঠার মাসে বছর",
+      "meaning": "Procrastination",
+      "positive_evidence_count": 1,
+      "candidate_count": 2
+    },
+    {
+      "group": "deception",
+      "query": "লোকটি কৌশলে অন্যদের ঠকিয়েছে।",
+      "status": "SELECTED",
+      "gold_phrase": "কারিকুরি",
+      "meaning": "Trickery or deception",
+      "positive_evidence_count": 3,
+      "candidate_count": 2
+    },
+    {
+      "group": "criticism",
+      "query": "তার কাজ ও আচরণ নিয়ে সবাই সমালোচনা করছে।",
+      "status": "NO_SAFE_GOLD",
+      "candidate_count": 0
+    },
+    {
+      "group": "stubborn",
+      "query": "অনেক বোঝালেও সে নিজের অবস্থান থেকে সরছে না।",
+      "status": "SELECTED",
+      "gold_phrase": "কমলি ছাড়ে না",
+      "meaning": "Falling into the trap of the unyielding",
+      "positive_evidence_count": 1,
+      "candidate_count": 3
+    },
+    {
+      "group": "hardwork",
+      "query": "সে সফল হওয়ার জন্য খুব কঠোর পরিশ্রম করছে।",
+      "status": "SELECTED",
+      "gold_phrase": "আদা জল খেয়ে লাগা",
+      "meaning": "Trying desperately or putting in utmost effort",
+      "positive_evidence_count": 2,
+      "candidate_count": 2
+    },
+    {
+      "group": "dependency",
+      "query": "সে নিজের কাজ নিজে না করে সবসময় অন্যের ওপর নির্ভর করে।",
+      "status": "NO_SAFE_GOLD",
+      "candidate_count": 0
+    },
+    {
+      "group": "poverty",
+      "query": "লোকটি খুব দরিদ্র এবং অর্থকষ্টে জীবনযাপন করছে।",
+      "status": "SELECTED",
+      "gold_phrase": "আকালকেঁড়ে",
+      "meaning": "Poor / Beggar",
+      "positive_evidence_count": 2,
+      "candidate_count": 5
+    },
+    {
+      "group": "boasting",
+      "query": "সে নিজের ক্ষমতা ও কৃতিত্ব নিয়ে অহংকার করে।",
+      "status": "SELECTED",
+      "gold_phrase": "অতি দর্পে হত লঙ্কা",
+      "meaning": "The fall of pride",
+      "positive_evidence_count": 2,
+      "candidate_count": 1
+    },
+    {
+      "group": "idle_talk",
+      "query": "সে সারাদিন অপ্রয়োজনীয় ও অর্থহীন কথাবার্তা বলে।",
+      "status": "SELECTED",
+      "gold_phrase": "অগড়-বগড় / অগড়ম-বগড়ম",
+      "meaning": "Meaningless or idle talk / the ravings of a madman",
+      "positive_evidence_count": 1,
+      "candidate_count": 2
+    },
+    {
+      "group": "anxiety",
+      "query": "পরিস্থিতির কারণে সে খুব উদ্বিগ্ন ও অস্থির হয়ে পড়েছে।",
+      "status": "SELECTED",
+      "gold_phrase": "আঁকুপাঁকু করা",
+      "meaning": "Restlessness or anxiety",
+      "positive_evidence_count": 3,
+      "candidate_count": 4
+    }
+  ]
+}

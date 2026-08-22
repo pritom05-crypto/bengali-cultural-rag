@@ -1,27 +1,77 @@
+# ============================================================
 # Python
+# ============================================================
+
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
-# Virtual environments
+
+# ============================================================
+# Virtual Environment
+# ============================================================
+
 .venv/
 venv/
 env/
+ENV/
 
-# Jupyter
-.ipynb_checkpoints/
 
-# Environment variables
+# ============================================================
+# Environment Variables / Secrets
+# ============================================================
+
 .env
 .env.*
+!.env.example
 
-# VS Code
+
+# ============================================================
+# Jupyter Notebook
+# ============================================================
+
+.ipynb_checkpoints/
+
+
+# ============================================================
+# VS Code / IDE
+# ============================================================
+
 .vscode/
+.idea/
 
-# Vector database
+
+# ============================================================
+# Local / Old Vector Databases
+# ============================================================
+
+# Old root-level Chroma database
+/chroma_db/
+
+# Other local vector stores
 vectorstore/
 
-# Model files
+# IMPORTANT:
+# data/chroma_db/ is NOT ignored because the application
+# currently uses this database.
+
+
+# ============================================================
+# Embeddings
+# ============================================================
+
+# Keep the current E5 embedding used by the application.
+# Ignore only old/backup embedding files.
+
+data/embeddings/*.old.npy
+
+
+# ============================================================
+# Model Files
+# ============================================================
+
+# Large locally downloaded models
 models/
 *.bin
 *.safetensors
@@ -29,22 +79,74 @@ models/
 *.pt
 *.pth
 
-# Cache
+
+# ============================================================
+# Hugging Face / ML Cache
+# ============================================================
+
 .cache/
 huggingface_cache/
+.cache/huggingface/
 
+
+# ============================================================
 # Logs
+# ============================================================
+
 *.log
 
-# OS files
+
+# ============================================================
+# OS Generated Files
+# ============================================================
+
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Temporary files
+
+# ============================================================
+# Temporary Files
+# ============================================================
+
 *.tmp
 *.temp
+*.bak
+*.swp
 
-# Python distribution
+
+# ============================================================
+# Python Distribution / Build
+# ============================================================
+
 *.egg-info/
 dist/
 build/
+
+
+# ============================================================
+# Testing / Coverage
+# ============================================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+# ============================================================
+# Streamlit
+# ============================================================
+
+.streamlit/secrets.toml
+
+# Development / backup files
+data/processed/final_cultural_dataset.backup.json
+data/processed/groq_review_queue.json
+data/processed/groq_validation_report.json
+scripts/llm_adapter.py
+scripts/test_gemini.py
+scripts/v6_rag_v6.1_backup.py
+scripts/validate_dataset_groq.py
+
+# Old processed embedding
+data/processed/e5_embeddings.npy

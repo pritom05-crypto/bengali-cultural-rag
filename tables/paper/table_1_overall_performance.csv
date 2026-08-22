@@ -1,0 +1,11 @@
+﻿Metric,Value
+Dataset Records,408
+Benchmark Queries,12
+Top-1 Accuracy,0.833333333
+Top-3 Accuracy,1
+Top-5 Accuracy,1
+MRR,0.902777778
+NDCG@5,
+Mean Confidence,0.914881467
+Mean Latency (ms),1117.554317
+P95 Latency (ms),1848.260195

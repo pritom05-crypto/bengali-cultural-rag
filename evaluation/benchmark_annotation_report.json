@@ -1,0 +1,15 @@
+{
+  "version": "V4",
+  "dataset_records": 408,
+  "valid_unique_records": 403,
+  "selected_records": 100,
+  "benchmark_records": 28,
+  "verified_records": 28,
+  "skipped_unknown_category": 72,
+  "excluded_records": 5,
+  "uses_gemini": false,
+  "uses_groq": false,
+  "uses_api": false,
+  "gold_assignment": "same_dataset_record",
+  "integrity_errors": 0
+}

@@ -1,0 +1,172 @@
+{
+  "dataset_records": 408,
+  "valid_records": 383,
+  "intent_count": 20,
+  "benchmark_records": 20,
+  "minimum_similarity": 0.72,
+  "api_used": false,
+  "gold_source": "actual_dataset_record",
+  "method": "multilingual E5 semantic matching against cultural meaning + literal meaning + tone",
+  "diagnostics": [
+    {
+      "intent": "lazy",
+      "category": "অলসতা",
+      "query": "সে খুব অলস এবং কোনো কাজ করতে চায় না।",
+      "selected_phrase": "অপোগণ্ড",
+      "score": 0.7863,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "angry",
+      "category": "রাগ",
+      "query": "সে খুব রেগে গেছে এবং প্রচণ্ড ক্রোধে আছে।",
+      "selected_phrase": "অগ্নিশর্মা",
+      "score": 0.7916,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "fear",
+      "category": "ভয়",
+      "query": "ঘটনাটি দেখে সে খুব ভয় পেয়ে গেছে।",
+      "selected_phrase": "আতান্তরে পড়া",
+      "score": 0.7836,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "danger",
+      "category": "বিপদ",
+      "query": "আমি এমন বিপদে পড়েছি যেখান থেকে বের হওয়ার পথ পাচ্ছি না।",
+      "selected_phrase": "অথৈ জল",
+      "score": 0.7814,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "confused",
+      "category": "বিভ্রান্তি",
+      "query": "সে কী করবে বুঝতে পারছে না এবং একেবারে হতবুদ্ধি হয়ে গেছে।",
+      "selected_phrase": "কান ভারী করা",
+      "score": 0.7932,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "surprised",
+      "category": "বিস্ময়",
+      "query": "ঘটনাটি এতটাই অপ্রত্যাশিত ছিল যে সে খুব অবাক হয়ে গেছে।",
+      "selected_phrase": "এলাহি কাণ্ড",
+      "score": 0.7839,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "sad",
+      "category": "দুঃখ",
+      "query": "ঘটনাটি তাকে খুব কষ্ট দিয়েছে এবং সে গভীরভাবে দুঃখ পেয়েছে।",
+      "selected_phrase": "অতি দর্পে হত লঙ্কা",
+      "score": 0.7808,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "success",
+      "category": "সাফল্য",
+      "query": "শেষ পর্যন্ত সে সফল হয়েছে এবং তার লক্ষ্য অর্জন করেছে।",
+      "selected_phrase": "কেল্লা ফতে",
+      "score": 0.768,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "failure",
+      "category": "ব্যর্থতা",
+      "query": "অনেক চেষ্টা করেও শেষ পর্যন্ত তার কাজটি ব্যর্থ হয়েছে।",
+      "selected_phrase": "উপরোধে ঢেঁকি গেলা",
+      "score": 0.7685,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "procrastination",
+      "category": "গড়িমসি",
+      "query": "সে কাজটি বারবার পিছিয়ে দিচ্ছে এবং সময় নষ্ট করছে।",
+      "selected_phrase": "কড়িকাঠ গনা",
+      "score": 0.7726,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "deception",
+      "category": "প্রতারণা",
+      "query": "লোকটি কৌশল করে অন্যদের ঠকিয়েছে।",
+      "selected_phrase": "কাটাকাটি করা",
+      "score": 0.7877,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "criticism",
+      "category": "সমালোচনা",
+      "query": "তার কাজ ও আচরণ নিয়ে সবাই সমালোচনা করছে।",
+      "selected_phrase": "খামকাজ",
+      "score": 0.7695,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "stubborn",
+      "category": "একগুঁয়েমি",
+      "query": "অনেক বোঝালেও সে নিজের সিদ্ধান্ত বা অবস্থান থেকে সরছে না।",
+      "selected_phrase": "আঁচল ধরে বেড়ানো",
+      "score": 0.7859,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "hardwork",
+      "category": "পরিশ্রম",
+      "query": "সে সফল হওয়ার জন্য খুব কঠোর পরিশ্রম করছে।",
+      "selected_phrase": "অনুর্ভঙ্গ পণ",
+      "score": 0.7556,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "dependency",
+      "category": "নির্ভরশীলতা",
+      "query": "সে নিজের কাজ নিজে না করে সবসময় অন্যের সাহায্যের ওপর নির্ভর করে।",
+      "selected_phrase": "অগত্যা মধুসূদন",
+      "score": 0.762,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "poverty",
+      "category": "দারিদ্র্য",
+      "query": "লোকটি খুব দরিদ্র এবং অর্থকষ্টে জীবনযাপন করছে।",
+      "selected_phrase": "আকালকেঁড়ে",
+      "score": 0.7944,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "boasting",
+      "category": "অহংকার",
+      "query": "সে নিজের ক্ষমতা ও কৃতিত্ব নিয়ে অহংকার করে।",
+      "selected_phrase": "উপুরহস্ত করা",
+      "score": 0.7666,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "idle_talk",
+      "category": "অর্থহীন কথাবার্তা",
+      "query": "সে সারাদিন অপ্রয়োজনীয় ও অর্থহীন কথাবার্তা বলে।",
+      "selected_phrase": "অকাল কুষ্মাণ্ড",
+      "score": 0.7968,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "pain",
+      "category": "কষ্ট",
+      "query": "ঘটনাটি তাকে খুব কষ্ট দিয়েছে এবং তার মনে গভীর যন্ত্রণা হয়েছে।",
+      "selected_phrase": "আঁতে ঘা",
+      "score": 0.7777,
+      "status": "SELECTED"
+    },
+    {
+      "intent": "anxiety",
+      "category": "উদ্বেগ",
+      "query": "পরিস্থিতির কারণে সে খুব উদ্বিগ্ন ও অস্থির হয়ে পড়েছে।",
+      "selected_phrase": "অস্থির পাজক",
+      "score": 0.8074,
+      "status": "SELECTED"
+    }
+  ]
+}

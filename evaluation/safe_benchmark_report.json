@@ -1,0 +1,14 @@
+{
+  "dataset_records": 408,
+  "candidate_records": 71,
+  "unique_records": 71,
+  "final_benchmark_records": 71,
+  "verified_records": 71,
+  "api_used": false,
+  "gold_source": "same_dataset_record",
+  "method": "conservative meaning-keyword mapping",
+  "excluded_reasons": {
+    "no_safe_semantic_rule": 312,
+    "not_verified": 25
+  }
+}
